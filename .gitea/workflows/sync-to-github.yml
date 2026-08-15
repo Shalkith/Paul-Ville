@@ -35,6 +35,26 @@ jobs:
           git checkout custom
           git rebase upstream/main
 
+      - name: setup node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: fetch local hiscores and rebuild tracker data
+        env:
+          TRACKER_API_BASE: ${{ secrets.TRACKER_API_BASE }}
+        run: |
+          node scripts/tracker.mjs --all
+
+      - name: commit updated tracker data
+        run: |
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No data changes to commit"
+          else
+            git commit -m "data: daily player snapshots"
+          fi
+
       - name: push to github
         env:
           GH_TOKEN: ${{ secrets.GH_PUSH_TOKEN }}

@@ -31,9 +31,8 @@ jobs:
       - uses: actions/setup-node@v5
         with:
           node-version: 22
-      - name: Build current Hiscores cache
-        run: node scripts/tracker.mjs --hiscores-only
-      - run: |
+      - name: Assemble site
+        run: |
           mkdir -p _site
           cp -R site/. _site/
           cp -R data _site/data
