@@ -46,6 +46,13 @@ jobs:
         run: |
           node scripts/tracker.mjs --all
 
+      - name: post hiscore leaderboards to Discord
+        env:
+          DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
+          DISCORD_GUILD_ID: ${{ secrets.DISCORD_GUILD_ID }}
+        run: |
+          node scripts/post-hiscores.mjs
+
       - name: commit updated tracker data
         run: |
           git add data/
