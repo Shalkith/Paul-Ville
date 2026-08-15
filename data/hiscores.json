@@ -1,0 +1,5972 @@
+{
+  "generatedAt": "2026-08-15T18:38:31.423Z",
+  "limit": 100,
+  "skills": {
+    "0": {
+      "name": "Overall",
+      "segments": {
+        "all": [
+          {
+            "player": "shalkith",
+            "level": 234,
+            "xp": 104292,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "andross",
+            "level": 59,
+            "xp": 9018,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 46,
+            "xp": 3251,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 42,
+            "xp": 2352,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 38,
+            "xp": 2102,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 33,
+            "xp": 1431,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 33,
+            "xp": 1304,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 33,
+            "xp": 1284,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "account:0": [
+          {
+            "player": "shalkith",
+            "level": 234,
+            "xp": 104292,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "andross",
+            "level": 59,
+            "xp": 9018,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 46,
+            "xp": 3251,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 42,
+            "xp": 2352,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 38,
+            "xp": 2102,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 33,
+            "xp": 1431,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 33,
+            "xp": 1304,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 33,
+            "xp": 1284,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "xp:1": [
+          {
+            "player": "shalkith",
+            "level": 234,
+            "xp": 104292,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "andross",
+            "level": 59,
+            "xp": 9018,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 46,
+            "xp": 3251,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 42,
+            "xp": 2352,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 38,
+            "xp": 2102,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 33,
+            "xp": 1431,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 33,
+            "xp": 1304,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 33,
+            "xp": 1284,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "account:0|xp:1": [
+          {
+            "player": "shalkith",
+            "level": 234,
+            "xp": 104292,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "andross",
+            "level": 59,
+            "xp": 9018,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 46,
+            "xp": 3251,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 42,
+            "xp": 2352,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 38,
+            "xp": 2102,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 33,
+            "xp": 1431,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 33,
+            "xp": 1304,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 33,
+            "xp": 1284,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ]
+      }
+    },
+    "1": {
+      "name": "Attack",
+      "segments": {
+        "all": [
+          {
+            "player": "shalkith",
+            "level": 28,
+            "xp": 11647,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 5,
+            "xp": 408,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 1,
+            "xp": 69,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 43,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 28,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "account:0": [
+          {
+            "player": "shalkith",
+            "level": 28,
+            "xp": 11647,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 5,
+            "xp": 408,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 1,
+            "xp": 69,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 43,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 28,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "xp:1": [
+          {
+            "player": "shalkith",
+            "level": 28,
+            "xp": 11647,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 5,
+            "xp": 408,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 1,
+            "xp": 69,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 43,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 28,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "account:0|xp:1": [
+          {
+            "player": "shalkith",
+            "level": 28,
+            "xp": 11647,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 5,
+            "xp": 408,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 1,
+            "xp": 69,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 43,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 28,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ]
+      }
+    },
+    "2": {
+      "name": "Defence",
+      "segments": {
+        "all": [
+          {
+            "player": "shalkith",
+            "level": 10,
+            "xp": 1198,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 7,
+            "xp": 769,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 40,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 31,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "account:0": [
+          {
+            "player": "shalkith",
+            "level": 10,
+            "xp": 1198,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 7,
+            "xp": 769,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 40,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 31,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "xp:1": [
+          {
+            "player": "shalkith",
+            "level": 10,
+            "xp": 1198,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 7,
+            "xp": 769,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 40,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 31,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "account:0|xp:1": [
+          {
+            "player": "shalkith",
+            "level": 10,
+            "xp": 1198,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 7,
+            "xp": 769,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 40,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 31,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ]
+      }
+    },
+    "3": {
+      "name": "Strength",
+      "segments": {
+        "all": [
+          {
+            "player": "shalkith",
+            "level": 23,
+            "xp": 6676,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 3,
+            "xp": 180,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 2,
+            "xp": 109,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 20,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 8,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "account:0": [
+          {
+            "player": "shalkith",
+            "level": 23,
+            "xp": 6676,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 3,
+            "xp": 180,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 2,
+            "xp": 109,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 20,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 8,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "xp:1": [
+          {
+            "player": "shalkith",
+            "level": 23,
+            "xp": 6676,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 3,
+            "xp": 180,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 2,
+            "xp": 109,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 20,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 8,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "account:0|xp:1": [
+          {
+            "player": "shalkith",
+            "level": 23,
+            "xp": 6676,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 3,
+            "xp": 180,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 2,
+            "xp": 109,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 20,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 8,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ]
+      }
+    },
+    "4": {
+      "name": "Hitpoints",
+      "segments": {
+        "all": [
+          {
+            "player": "shalkith",
+            "level": 24,
+            "xp": 7580,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "andross",
+            "level": 14,
+            "xp": 2136,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 11,
+            "xp": 1497,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 10,
+            "xp": 1294,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 10,
+            "xp": 1255,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 10,
+            "xp": 1169,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 10,
+            "xp": 1154,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 10,
+            "xp": 1154,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "account:0": [
+          {
+            "player": "shalkith",
+            "level": 24,
+            "xp": 7580,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "andross",
+            "level": 14,
+            "xp": 2136,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 11,
+            "xp": 1497,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 10,
+            "xp": 1294,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 10,
+            "xp": 1255,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 10,
+            "xp": 1169,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 10,
+            "xp": 1154,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 10,
+            "xp": 1154,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "xp:1": [
+          {
+            "player": "shalkith",
+            "level": 24,
+            "xp": 7580,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "andross",
+            "level": 14,
+            "xp": 2136,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 11,
+            "xp": 1497,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 10,
+            "xp": 1294,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 10,
+            "xp": 1255,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 10,
+            "xp": 1169,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 10,
+            "xp": 1154,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 10,
+            "xp": 1154,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "account:0|xp:1": [
+          {
+            "player": "shalkith",
+            "level": 24,
+            "xp": 7580,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "andross",
+            "level": 14,
+            "xp": 2136,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 11,
+            "xp": 1497,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 10,
+            "xp": 1294,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 10,
+            "xp": 1255,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 10,
+            "xp": 1169,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 10,
+            "xp": 1154,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 10,
+            "xp": 1154,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ]
+      }
+    },
+    "5": {
+      "name": "Ranged",
+      "segments": {
+        "all": [
+          {
+            "player": "shalkith",
+            "level": 1,
+            "xp": 46,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 24,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 1,
+            "xp": 20,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 4,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "account:0": [
+          {
+            "player": "shalkith",
+            "level": 1,
+            "xp": 46,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 24,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 1,
+            "xp": 20,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 4,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "xp:1": [
+          {
+            "player": "shalkith",
+            "level": 1,
+            "xp": 46,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 24,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 1,
+            "xp": 20,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 4,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "account:0|xp:1": [
+          {
+            "player": "shalkith",
+            "level": 1,
+            "xp": 46,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 24,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 1,
+            "xp": 20,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 4,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ]
+      }
+    },
+    "6": {
+      "name": "Prayer",
+      "segments": {
+        "all": [
+          {
+            "player": "shalkith",
+            "level": 17,
+            "xp": 3240,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 2,
+            "xp": 117,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 54,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 27,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "account:0": [
+          {
+            "player": "shalkith",
+            "level": 17,
+            "xp": 3240,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 2,
+            "xp": 117,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 54,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 27,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "xp:1": [
+          {
+            "player": "shalkith",
+            "level": 17,
+            "xp": 3240,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 2,
+            "xp": 117,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 54,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 27,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "account:0|xp:1": [
+          {
+            "player": "shalkith",
+            "level": 17,
+            "xp": 3240,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 2,
+            "xp": 117,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 54,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 27,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ]
+      }
+    },
+    "7": {
+      "name": "Magic",
+      "segments": {
+        "all": [
+          {
+            "player": "andross",
+            "level": 23,
+            "xp": 6788,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "shalkith",
+            "level": 8,
+            "xp": 946,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 3,
+            "xp": 223,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 2,
+            "xp": 167,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 42,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "account:0": [
+          {
+            "player": "andross",
+            "level": 23,
+            "xp": 6788,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "shalkith",
+            "level": 8,
+            "xp": 946,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 3,
+            "xp": 223,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 2,
+            "xp": 167,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 42,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "xp:1": [
+          {
+            "player": "andross",
+            "level": 23,
+            "xp": 6788,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "shalkith",
+            "level": 8,
+            "xp": 946,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 3,
+            "xp": 223,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 2,
+            "xp": 167,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 42,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "account:0|xp:1": [
+          {
+            "player": "andross",
+            "level": 23,
+            "xp": 6788,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "shalkith",
+            "level": 8,
+            "xp": 946,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 3,
+            "xp": 223,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 2,
+            "xp": 167,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 42,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ]
+      }
+    },
+    "8": {
+      "name": "Cooking",
+      "segments": {
+        "all": [
+          {
+            "player": "shalkith",
+            "level": 16,
+            "xp": 2865,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 6,
+            "xp": 570,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 30,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "account:0": [
+          {
+            "player": "shalkith",
+            "level": 16,
+            "xp": 2865,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 6,
+            "xp": 570,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 30,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "xp:1": [
+          {
+            "player": "shalkith",
+            "level": 16,
+            "xp": 2865,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 6,
+            "xp": 570,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 30,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "account:0|xp:1": [
+          {
+            "player": "shalkith",
+            "level": 16,
+            "xp": 2865,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 6,
+            "xp": 570,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 30,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ]
+      }
+    },
+    "9": {
+      "name": "Woodcutting",
+      "segments": {
+        "all": [
+          {
+            "player": "lofilinx",
+            "level": 2,
+            "xp": 150,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 2,
+            "xp": 100,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 50,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 50,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 50,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "shalkith",
+            "level": 1,
+            "xp": 50,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 25,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "account:0": [
+          {
+            "player": "lofilinx",
+            "level": 2,
+            "xp": 150,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 2,
+            "xp": 100,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 50,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 50,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 50,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "shalkith",
+            "level": 1,
+            "xp": 50,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 25,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "xp:1": [
+          {
+            "player": "lofilinx",
+            "level": 2,
+            "xp": 150,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 2,
+            "xp": 100,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 50,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 50,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 50,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "shalkith",
+            "level": 1,
+            "xp": 50,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 25,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "account:0|xp:1": [
+          {
+            "player": "lofilinx",
+            "level": 2,
+            "xp": 150,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 2,
+            "xp": 100,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 50,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 50,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 50,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "shalkith",
+            "level": 1,
+            "xp": 50,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 25,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ]
+      }
+    },
+    "10": {
+      "name": "Fletching",
+      "segments": {
+        "all": [
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "shalkith",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "account:0": [
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "shalkith",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "xp:1": [
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "shalkith",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "account:0|xp:1": [
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "shalkith",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ]
+      }
+    },
+    "11": {
+      "name": "Fishing",
+      "segments": {
+        "all": [
+          {
+            "player": "shalkith",
+            "level": 2,
+            "xp": 90,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 1,
+            "xp": 70,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 40,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 30,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 30,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 20,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "account:0": [
+          {
+            "player": "shalkith",
+            "level": 2,
+            "xp": 90,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 1,
+            "xp": 70,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 40,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 30,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 30,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 20,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "xp:1": [
+          {
+            "player": "shalkith",
+            "level": 2,
+            "xp": 90,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 1,
+            "xp": 70,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 40,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 30,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 30,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 20,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "account:0|xp:1": [
+          {
+            "player": "shalkith",
+            "level": 2,
+            "xp": 90,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 1,
+            "xp": 70,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 40,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 30,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 30,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 20,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ]
+      }
+    },
+    "12": {
+      "name": "Firemaking",
+      "segments": {
+        "all": [
+          {
+            "player": "midnight",
+            "level": 2,
+            "xp": 160,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 80,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 80,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 1,
+            "xp": 80,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "shalkith",
+            "level": 1,
+            "xp": 80,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 40,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "account:0": [
+          {
+            "player": "midnight",
+            "level": 2,
+            "xp": 160,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 80,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 80,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 1,
+            "xp": 80,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "shalkith",
+            "level": 1,
+            "xp": 80,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 40,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "xp:1": [
+          {
+            "player": "midnight",
+            "level": 2,
+            "xp": 160,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 80,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 80,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 1,
+            "xp": 80,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "shalkith",
+            "level": 1,
+            "xp": 80,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 40,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "account:0|xp:1": [
+          {
+            "player": "midnight",
+            "level": 2,
+            "xp": 160,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 80,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 80,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 1,
+            "xp": 80,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "shalkith",
+            "level": 1,
+            "xp": 80,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 40,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ]
+      }
+    },
+    "13": {
+      "name": "Crafting",
+      "segments": {
+        "all": [
+          {
+            "player": "shalkith",
+            "level": 20,
+            "xp": 4574,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "account:0": [
+          {
+            "player": "shalkith",
+            "level": 20,
+            "xp": 4574,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "xp:1": [
+          {
+            "player": "shalkith",
+            "level": 20,
+            "xp": 4574,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "account:0|xp:1": [
+          {
+            "player": "shalkith",
+            "level": 20,
+            "xp": 4574,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ]
+      }
+    },
+    "14": {
+      "name": "Smithing",
+      "segments": {
+        "all": [
+          {
+            "player": "shalkith",
+            "level": 31,
+            "xp": 16187,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 18,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 1,
+            "xp": 18,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 18,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "account:0": [
+          {
+            "player": "shalkith",
+            "level": 31,
+            "xp": 16187,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 18,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 1,
+            "xp": 18,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 18,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "xp:1": [
+          {
+            "player": "shalkith",
+            "level": 31,
+            "xp": 16187,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 18,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 1,
+            "xp": 18,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 18,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "account:0|xp:1": [
+          {
+            "player": "shalkith",
+            "level": 31,
+            "xp": 16187,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 18,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 1,
+            "xp": 18,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 18,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ]
+      }
+    },
+    "15": {
+      "name": "Mining",
+      "segments": {
+        "all": [
+          {
+            "player": "shalkith",
+            "level": 42,
+            "xp": 49085,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 2,
+            "xp": 127,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 35,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 35,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "account:0": [
+          {
+            "player": "shalkith",
+            "level": 42,
+            "xp": 49085,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 2,
+            "xp": 127,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 35,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 35,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "xp:1": [
+          {
+            "player": "shalkith",
+            "level": 42,
+            "xp": 49085,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 2,
+            "xp": 127,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 35,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 35,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "account:0|xp:1": [
+          {
+            "player": "shalkith",
+            "level": 42,
+            "xp": 49085,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 2,
+            "xp": 127,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 35,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 35,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ]
+      }
+    },
+    "16": {
+      "name": "Herblore",
+      "segments": {
+        "all": [
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "shalkith",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "account:0": [
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "shalkith",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "xp:1": [
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "shalkith",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "account:0|xp:1": [
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "shalkith",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ]
+      }
+    },
+    "17": {
+      "name": "Agility",
+      "segments": {
+        "all": [
+          {
+            "player": "shalkith",
+            "level": 1,
+            "xp": 10,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "account:0": [
+          {
+            "player": "shalkith",
+            "level": 1,
+            "xp": 10,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "xp:1": [
+          {
+            "player": "shalkith",
+            "level": 1,
+            "xp": 10,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "account:0|xp:1": [
+          {
+            "player": "shalkith",
+            "level": 1,
+            "xp": 10,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ]
+      }
+    },
+    "18": {
+      "name": "Thieving",
+      "segments": {
+        "all": [
+          {
+            "player": "shalkith",
+            "level": 1,
+            "xp": 16,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "account:0": [
+          {
+            "player": "shalkith",
+            "level": 1,
+            "xp": 16,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "xp:1": [
+          {
+            "player": "shalkith",
+            "level": 1,
+            "xp": 16,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "account:0|xp:1": [
+          {
+            "player": "shalkith",
+            "level": 1,
+            "xp": 16,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ]
+      }
+    },
+    "19": {
+      "name": "Slayer",
+      "segments": {
+        "all": [
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "shalkith",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "account:0": [
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "shalkith",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "xp:1": [
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "shalkith",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "account:0|xp:1": [
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "shalkith",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ]
+      }
+    },
+    "20": {
+      "name": "Farming",
+      "segments": {
+        "all": [
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "shalkith",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "account:0": [
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "shalkith",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "xp:1": [
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "shalkith",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "account:0|xp:1": [
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "shalkith",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ]
+      }
+    },
+    "21": {
+      "name": "Runecrafting",
+      "segments": {
+        "all": [
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "shalkith",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "account:0": [
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "shalkith",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "xp:1": [
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "shalkith",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "account:0|xp:1": [
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "shalkith",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ]
+      }
+    },
+    "22": {
+      "name": "Hunter",
+      "segments": {
+        "all": [
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "shalkith",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "account:0": [
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "shalkith",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "xp:1": [
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "shalkith",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "account:0|xp:1": [
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "shalkith",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ]
+      }
+    },
+    "23": {
+      "name": "Construction",
+      "segments": {
+        "all": [
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "shalkith",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "account:0": [
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "shalkith",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "xp:1": [
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "shalkith",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "account:0|xp:1": [
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "shalkith",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ]
+      }
+    },
+    "24": {
+      "name": "Summoning",
+      "segments": {
+        "all": [
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "shalkith",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "account:0": [
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "shalkith",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "xp:1": [
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "shalkith",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "account:0|xp:1": [
+          {
+            "player": "andross",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "lofilinx",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "shalkith",
+            "level": 1,
+            "xp": 0,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ]
+      }
+    },
+    "25": {
+      "name": "Best Wife",
+      "segments": {
+        "all": [
+          {
+            "player": "annabellee",
+            "level": 99,
+            "xp": 200000000,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "account:0": [
+          {
+            "player": "annabellee",
+            "level": 99,
+            "xp": 200000000,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "xp:1": [
+          {
+            "player": "annabellee",
+            "level": 99,
+            "xp": 200000000,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "account:0|xp:1": [
+          {
+            "player": "annabellee",
+            "level": 99,
+            "xp": 200000000,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ]
+      }
+    }
+  }
+}

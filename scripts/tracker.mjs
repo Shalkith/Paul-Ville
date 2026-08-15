@@ -13,7 +13,7 @@ const HISCORES_SKILL_API=`${API_BASE}/hiscores/playersBySkill/2/`;
 const ACTIVITY_API=`${API_BASE}/hiscores/getWorldTotalAttribute/2/`;
 const ACTIVITIES=['logs_chopped','fish_caught','rocks_mined','enemies_killed','deaths','alkharid_gate'];
 const PERIODS={day:1,week:7,month:30};
-const HISCORE_SKILLS=['Overall','Attack','Defence','Strength','Hitpoints','Ranged','Prayer','Magic','Cooking','Woodcutting','Fletching','Fishing','Firemaking','Crafting','Smithing','Mining','Herblore','Agility','Thieving','Slayer','Farming','Runecrafting','Hunter','Construction','Summoning'];
+const HISCORE_SKILLS=['Overall','Attack','Defence','Strength','Hitpoints','Ranged','Prayer','Magic','Cooking','Woodcutting','Fletching','Fishing','Firemaking','Crafting','Smithing','Mining','Herblore','Agility','Thieving','Slayer','Farming','Runecrafting','Hunter','Construction','Summoning','Best Wife'];
 let excludedPlayers=new Set();
 const readJson=async file=>JSON.parse(await fs.readFile(file,'utf8'));
 const writeJson=async(file,data)=>fs.writeFile(file,JSON.stringify(data,null,2)+'\n');
@@ -81,9 +81,14 @@ async function updateHiscores(){
   try{previous=await readJson(file)}catch(error){if(error.code!=='ENOENT')throw error}
   const skills={}; let refreshed=0;
   for(let skill=0;skill<HISCORE_SKILLS.length;skill++){
-    const url=skill===0?PLAYER_LIST_API:`${HISCORES_SKILL_API}${skill-1}`;
     try{
-      const rows=await fetchHiscoreRows(url);
+      let rows;
+      if(HISCORE_SKILLS[skill]==='Best Wife'){
+        rows=[{player:'annabellee',level:99,xp:200000000,ironMode:0,expMultiplier:1}];
+      }else{
+        const url=skill===0?PLAYER_LIST_API:`${HISCORES_SKILL_API}${skill-1}`;
+        rows=await fetchHiscoreRows(url);
+      }
       skills[skill]={name:HISCORE_SKILLS[skill],segments:segmentHiscores(rows)};
       refreshed++;
       console.log(`Hiscores: ${HISCORE_SKILLS[skill]} refreshed (${rows.length} players)`);
