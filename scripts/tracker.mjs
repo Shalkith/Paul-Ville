@@ -18,6 +18,30 @@ let excludedPlayers=new Set();
 const readJson=async file=>JSON.parse(await fs.readFile(file,'utf8'));
 const writeJson=async(file,data)=>fs.writeFile(file,JSON.stringify(data,null,2)+'\n');
 const playerKey=value=>value.trim().toLowerCase().replace(/[ _-]+/g,'_').replace(/[^a-z0-9_]/g,'');
+
+function combatLevel(skills){
+  // skills is the 24-element array indexed by API skill id (0=Attack, 1=Defence, 2=Strength, 3=Hitpoints, 4=Ranged, 5=Prayer, 6=Magic)
+  const lvl=id=>skills[id]?.level||1;
+  const attack=lvl(0),strength=lvl(2),defence=lvl(1),hitpoints=lvl(3);
+  const ranged=lvl(4),prayer=lvl(5),magic=lvl(6);
+  const base=(defence+hitpoints+Math.floor(prayer/2))*0.25;
+  const melee=(attack+strength)*0.325;
+  const range=Math.floor(ranged*1.5)*0.325;
+  const mage=Math.floor(magic*1.5)*0.325;
+  return Math.floor(base+Math.max(melee,range,mage));
+}
+
+async function readPlayerSkills(player){
+  try{
+    const doc=await readJson(path.join(playersDir,`${playerKey(player)}.json`));
+    return doc.snapshots.at(-1)?.skills||null;
+  }catch{
+    try{
+      const current=await fetchPlayer(player);
+      return current.skills;
+    }catch{return null}
+  }
+}
 const slug=playerKey;
 const legacySlug=value=>value.trim().toLowerCase().replace(/\s+/g,'-').replace(/[^a-z0-9_-]/g,'');
 const totalXp=s=>s.skills.reduce((n,v)=>n+v.xp,0);
@@ -84,10 +108,16 @@ async function updateHiscores(){
     try{
       let rows;
       if(HISCORE_SKILLS[skill]==='Best Wife'){
-        rows=[{player:'annabellee',level:99,xp:200000000,ironMode:0,expMultiplier:1}];
+        rows=[{player:'annabellee',level:99,xp:200000000,ironMode:0,expMultiplier:1,combatLevel:126}];
       }else{
         const url=skill===0?PLAYER_LIST_API:`${HISCORES_SKILL_API}${skill-1}`;
         rows=await fetchHiscoreRows(url);
+        if(skill===0){
+          for(const row of rows){
+            const playerSkills=await readPlayerSkills(row.player);
+            if(playerSkills)row.combatLevel=combatLevel(playerSkills);
+          }
+        }
       }
       skills[skill]={name:HISCORE_SKILLS[skill],segments:segmentHiscores(rows)};
       refreshed++;

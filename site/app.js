@@ -46,8 +46,9 @@ function renderCurrent(){if(document.body.dataset.page==='player')renderPlayer()
 function renderHiscores(){
   const key=accountFilter!=='all'&&xpFilter!=='all'?`account:${accountFilter}|xp:${xpFilter}`:accountFilter!=='all'?`account:${accountFilter}`:xpFilter!=='all'?`xp:${xpFilter}`:'all';
   const skill=hiscoresData.skills?.[selectedSkill],rows=skill?.segments?.[key]||[];
+  const isOverall=selectedSkill===0;
   document.querySelector('#hiscores-skill').textContent=SKILLS[selectedSkill];
-  document.querySelector('#hiscores-list').innerHTML=rows.map((row,i)=>`<div class="leader-row"><span class="rank">${i+1}</span><span class="leader-player"><a href="./player.html?player=${encodeURIComponent(row.player)}">${row.player}</a><small>${modeLabel(row.ironMode,row.expMultiplier)}</small></span><span>${number.format(row.level)}</span><span>${number.format(row.xp)}</span></div>`).join('');
+  document.querySelector('#hiscores-list').innerHTML=rows.map((row,i)=>`<div class="leader-row"><span class="rank">${i+1}</span><span class="leader-player"><a href="./player.html?player=${encodeURIComponent(row.player)}">${row.player}</a><small>${modeLabel(row.ironMode,row.expMultiplier)}${isOverall&&row.combatLevel!==undefined?` · CBT ${row.combatLevel}`:''}</small></span><span>${number.format(row.level)}</span><span>${number.format(row.xp)}</span></div>`).join('');
   document.querySelector('#hiscores-empty').hidden=rows.length>0;
   document.querySelectorAll('.skill-chip').forEach((button,i)=>button.classList.toggle('active',i===selectedSkill));
 }

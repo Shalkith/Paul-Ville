@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T18:38:31.423Z",
+  "generatedAt": "2026-08-15T20:50:47.568Z",
   "limit": 100,
   "skills": {
     "0": {
@@ -11,56 +11,64 @@
             "level": 234,
             "xp": 104292,
             "ironMode": 0,
-            "expMultiplier": 1
+            "expMultiplier": 1,
+            "combatLevel": 27
           },
           {
             "player": "andross",
             "level": 59,
             "xp": 9018,
             "ironMode": 0,
-            "expMultiplier": 1
+            "expMultiplier": 1,
+            "combatLevel": 14
           },
           {
             "player": "lofilinx",
             "level": 46,
             "xp": 3251,
             "ironMode": 0,
-            "expMultiplier": 1
+            "expMultiplier": 1,
+            "combatLevel": 6
           },
           {
             "player": "ratler",
             "level": 42,
             "xp": 2352,
             "ironMode": 0,
-            "expMultiplier": 1
+            "expMultiplier": 1,
+            "combatLevel": 4
           },
           {
             "player": "midnight",
             "level": 38,
             "xp": 2102,
             "ironMode": 0,
-            "expMultiplier": 1
+            "expMultiplier": 1,
+            "combatLevel": 4
           },
           {
             "player": "jj",
             "level": 33,
             "xp": 1431,
             "ironMode": 0,
-            "expMultiplier": 1
+            "expMultiplier": 1,
+            "combatLevel": 3
           },
           {
             "player": "bwand_rin",
             "level": 33,
             "xp": 1304,
             "ironMode": 0,
-            "expMultiplier": 1
+            "expMultiplier": 1,
+            "combatLevel": 3
           },
           {
             "player": "annabellee",
             "level": 33,
             "xp": 1284,
             "ironMode": 0,
-            "expMultiplier": 1
+            "expMultiplier": 1,
+            "combatLevel": 3
           }
         ],
         "account:0": [
@@ -69,56 +77,64 @@
             "level": 234,
             "xp": 104292,
             "ironMode": 0,
-            "expMultiplier": 1
+            "expMultiplier": 1,
+            "combatLevel": 27
           },
           {
             "player": "andross",
             "level": 59,
             "xp": 9018,
             "ironMode": 0,
-            "expMultiplier": 1
+            "expMultiplier": 1,
+            "combatLevel": 14
           },
           {
             "player": "lofilinx",
             "level": 46,
             "xp": 3251,
             "ironMode": 0,
-            "expMultiplier": 1
+            "expMultiplier": 1,
+            "combatLevel": 6
           },
           {
             "player": "ratler",
             "level": 42,
             "xp": 2352,
             "ironMode": 0,
-            "expMultiplier": 1
+            "expMultiplier": 1,
+            "combatLevel": 4
           },
           {
             "player": "midnight",
             "level": 38,
             "xp": 2102,
             "ironMode": 0,
-            "expMultiplier": 1
+            "expMultiplier": 1,
+            "combatLevel": 4
           },
           {
             "player": "jj",
             "level": 33,
             "xp": 1431,
             "ironMode": 0,
-            "expMultiplier": 1
+            "expMultiplier": 1,
+            "combatLevel": 3
           },
           {
             "player": "bwand_rin",
             "level": 33,
             "xp": 1304,
             "ironMode": 0,
-            "expMultiplier": 1
+            "expMultiplier": 1,
+            "combatLevel": 3
           },
           {
             "player": "annabellee",
             "level": 33,
             "xp": 1284,
             "ironMode": 0,
-            "expMultiplier": 1
+            "expMultiplier": 1,
+            "combatLevel": 3
           }
         ],
         "xp:1": [
@@ -127,56 +143,64 @@
             "level": 234,
             "xp": 104292,
             "ironMode": 0,
-            "expMultiplier": 1
+            "expMultiplier": 1,
+            "combatLevel": 27
           },
           {
             "player": "andross",
             "level": 59,
             "xp": 9018,
             "ironMode": 0,
-            "expMultiplier": 1
+            "expMultiplier": 1,
+            "combatLevel": 14
           },
           {
             "player": "lofilinx",
             "level": 46,
             "xp": 3251,
             "ironMode": 0,
-            "expMultiplier": 1
+            "expMultiplier": 1,
+            "combatLevel": 6
           },
           {
             "player": "ratler",
             "level": 42,
             "xp": 2352,
             "ironMode": 0,
-            "expMultiplier": 1
+            "expMultiplier": 1,
+            "combatLevel": 4
           },
           {
             "player": "midnight",
             "level": 38,
             "xp": 2102,
             "ironMode": 0,
-            "expMultiplier": 1
+            "expMultiplier": 1,
+            "combatLevel": 4
           },
           {
             "player": "jj",
             "level": 33,
             "xp": 1431,
             "ironMode": 0,
-            "expMultiplier": 1
+            "expMultiplier": 1,
+            "combatLevel": 3
           },
           {
             "player": "bwand_rin",
             "level": 33,
             "xp": 1304,
             "ironMode": 0,
-            "expMultiplier": 1
+            "expMultiplier": 1,
+            "combatLevel": 3
           },
           {
             "player": "annabellee",
             "level": 33,
             "xp": 1284,
             "ironMode": 0,
-            "expMultiplier": 1
+            "expMultiplier": 1,
+            "combatLevel": 3
           }
         ],
         "account:0|xp:1": [
@@ -185,56 +209,64 @@
             "level": 234,
             "xp": 104292,
             "ironMode": 0,
-            "expMultiplier": 1
+            "expMultiplier": 1,
+            "combatLevel": 27
           },
           {
             "player": "andross",
             "level": 59,
             "xp": 9018,
             "ironMode": 0,
-            "expMultiplier": 1
+            "expMultiplier": 1,
+            "combatLevel": 14
           },
           {
             "player": "lofilinx",
             "level": 46,
             "xp": 3251,
             "ironMode": 0,
-            "expMultiplier": 1
+            "expMultiplier": 1,
+            "combatLevel": 6
           },
           {
             "player": "ratler",
             "level": 42,
             "xp": 2352,
             "ironMode": 0,
-            "expMultiplier": 1
+            "expMultiplier": 1,
+            "combatLevel": 4
           },
           {
             "player": "midnight",
             "level": 38,
             "xp": 2102,
             "ironMode": 0,
-            "expMultiplier": 1
+            "expMultiplier": 1,
+            "combatLevel": 4
           },
           {
             "player": "jj",
             "level": 33,
             "xp": 1431,
             "ironMode": 0,
-            "expMultiplier": 1
+            "expMultiplier": 1,
+            "combatLevel": 3
           },
           {
             "player": "bwand_rin",
             "level": 33,
             "xp": 1304,
             "ironMode": 0,
-            "expMultiplier": 1
+            "expMultiplier": 1,
+            "combatLevel": 3
           },
           {
             "player": "annabellee",
             "level": 33,
             "xp": 1284,
             "ironMode": 0,
-            "expMultiplier": 1
+            "expMultiplier": 1,
+            "combatLevel": 3
           }
         ]
       }
@@ -5936,7 +5968,8 @@
             "level": 99,
             "xp": 200000000,
             "ironMode": 0,
-            "expMultiplier": 1
+            "expMultiplier": 1,
+            "combatLevel": 126
           }
         ],
         "account:0": [
@@ -5945,7 +5978,8 @@
             "level": 99,
             "xp": 200000000,
             "ironMode": 0,
-            "expMultiplier": 1
+            "expMultiplier": 1,
+            "combatLevel": 126
           }
         ],
         "xp:1": [
@@ -5954,7 +5988,8 @@
             "level": 99,
             "xp": 200000000,
             "ironMode": 0,
-            "expMultiplier": 1
+            "expMultiplier": 1,
+            "combatLevel": 126
           }
         ],
         "account:0|xp:1": [
@@ -5963,7 +5998,8 @@
             "level": 99,
             "xp": 200000000,
             "ironMode": 0,
-            "expMultiplier": 1
+            "expMultiplier": 1,
+            "combatLevel": 126
           }
         ]
       }
