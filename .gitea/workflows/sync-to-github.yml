@@ -1,0 +1,43 @@
+name: sync-to-github
+
+on:
+  schedule:
+    - cron: '0 4 * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: sync-to-github
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout custom branch
+        uses: actions/checkout@v4
+        with:
+          ref: custom
+          fetch-depth: 0
+          token: ${{ secrets.SYNC_TOKEN }}
+
+      - name: configure git
+        run: |
+          git config user.name "gitea-sync"
+          git config user.email "sync@local"
+
+      - name: fetch upstream
+        run: |
+          git remote add upstream https://github.com/Magiepie/09-Tracker.git
+          git fetch upstream
+
+      - name: rebase custom onto upstream/main
+        run: |
+          git checkout custom
+          git rebase upstream/main
+
+      - name: push to github
+        env:
+          GH_TOKEN: ${{ secrets.GH_PUSH_TOKEN }}
+        run: |
+          git remote add github https://x-access-token:${GH_TOKEN}@github.com/shalkith/Paul-Ville.git
+          git push github custom:main --force-with-lease
