@@ -46,11 +46,24 @@ async function fetchPlayerList(){
 }
 
 async function fetchHiscoreRows(url){
-  const response=await fetch(url,{headers:{Accept:'application/json'},signal:AbortSignal.timeout(120000)});
-  if(!response.ok)throw new Error(`Hiscores list returned ${response.status}`);
-  const payload=await response.json();
-  if(!Array.isArray(payload))throw new Error('Unexpected hiscores-list data');
-  return payload.map(row=>({player:String(row.username||'').trim(),level:Math.floor(Number(row.level)||0),xp:Math.floor(Number(row.xp)||0),ironMode:Number(row.iron_mode||0),expMultiplier:Number(row.exp_multiplier||0)})).filter(row=>row.player);
+  let lastError;
+  for(let attempt=1;attempt<=3;attempt++){
+    try{
+      const response=await fetch(url,{headers:{Accept:'application/json'},signal:AbortSignal.timeout(120000)});
+      if(!response.ok)throw new Error(`Hiscores list returned ${response.status}`);
+      const payload=await response.json();
+      if(!Array.isArray(payload))throw new Error('Unexpected hiscores-list data');
+      return payload.map(row=>({player:String(row.username||'').trim(),level:Math.floor(Number(row.level)||0),xp:Math.floor(Number(row.xp)||0),ironMode:Number(row.iron_mode||0),expMultiplier:Number(row.exp_multiplier||0)})).filter(row=>row.player);
+    }catch(error){
+      lastError=error;
+      if(attempt<3){
+        const delay=2000*2**(attempt-1);
+        console.warn(`Hiscores list attempt ${attempt}/3 failed: ${error.message}; retrying in ${delay}ms`);
+        await new Promise(resolve=>setTimeout(resolve,delay));
+      }
+    }
+  }
+  throw lastError;
 }
 
 function segmentHiscores(rows,limit=100){
