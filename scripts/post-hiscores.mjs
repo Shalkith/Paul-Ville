@@ -110,6 +110,37 @@ async function api(route, method = 'GET', body = null) {
   return json;
 }
 
+function buildLeaderboard(skillName, rows, generatedAt) {
+  const lines = rows.map((row, i) => {
+    const rank = String(i + 1).padStart(2, ' ');
+    const player = row.player.slice(0, 12).padEnd(12, ' ');
+    const level = String(row.level).padStart(3, ' ');
+    const xp = fmtXp(row.xp).padStart(10, ' ');
+    return `\`#${rank}\` **${player}** — Lvl ${level} • ${xp} XP`;
+  });
+
+  const header = `**${skillName} Hiscores — Top ${rows.length} players**`;
+  const footer = `_Updated ${generatedAt} UTC_`;
+  const content = [header, '', ...lines, '', footer].join('\n');
+
+  // Split if it exceeds Discord's 2000-character limit
+  if (content.length <= 2000) return [content];
+  const chunks = [];
+  let current = [header, ''];
+  for (const line of lines) {
+    if ((current.join('\n') + '\n' + line).length > 1900) {
+      chunks.push([...current, '', footer].join('\n'));
+      current = [header, '', line];
+    } else {
+      current.push(line);
+    }
+  }
+  if (current.length > 2) {
+    chunks.push([...current, '', footer].join('\n'));
+  }
+  return chunks;
+}
+
 async function main() {
   const me = await api('/users/@me');
   console.log(`Bot: ${me.username} (${me.id})\n`);
@@ -141,21 +172,7 @@ async function main() {
       continue;
     }
 
-    const fields = rows.map((row, i) => ({
-      name: `Rank ${i + 1}`,
-      value: `**${row.player}**\nLevel ${row.level} • ${fmtXp(row.xp)} XP`,
-      inline: true
-    }));
-
-    const embed = {
-      title: `${skillName} Hiscores`,
-      color: 0xb78325,
-      thumbnail: { url: SKILL_ICONS[skillName] || null },
-      description: `Top ${rows.length} ${skillName} players on Paul-Ville.`,
-      fields,
-      footer: { text: `Updated ${generatedAt} UTC` },
-      timestamp: hiscores.generatedAt || new Date().toISOString()
-    };
+    const chunks = buildLeaderboard(skillName, rows, generatedAt);
 
     // Delete previous bot messages in this channel
     try {
@@ -168,9 +185,15 @@ async function main() {
       console.warn(`Could not clean old messages in #${slug}: ${err.message}`);
     }
 
-    // Post new leaderboard
+    // Post new leaderboard silently (suppress embeds, no @mentions)
     try {
-      await api(`/channels/${channel.id}/messages`, 'POST', { embeds: [embed] });
+      for (const chunk of chunks) {
+        await api(`/channels/${channel.id}/messages`, 'POST', {
+          content: chunk,
+          allowed_mentions: { parse: [], users: [], roles: [] },
+          flags: 4096 // SUPPRESS_EMBEDS
+        });
+      }
       console.log(`Posted ${skillName} leaderboard to #${slug}`);
     } catch (err) {
       console.error(`Failed to post ${skillName} to #${slug}: ${err.message}`);
