@@ -181,18 +181,51 @@ async function rebuildLeaderboard(){
   await writeJson(path.join(dataDir,'top-gains.json'),output);
 }
 
+async function pruneToLocalPlayers(){
+  console.log('Pruning tracked players to those present in the local API...');
+  const apiPlayers=await fetchPlayerList();
+  const apiSet=new Set(apiPlayers.map(playerKey));
+  const indexFile=path.join(dataDir,'tracked-players.json');
+  const index=await readJson(indexFile);
+  const before=index.players.length;
+  const kept=index.players.filter(p=>apiSet.has(playerKey(p))).sort((a,b)=>a.localeCompare(b));
+  await writeJson(indexFile,{...index,players:kept});
+  const keptSet=new Set(kept.map(playerKey));
+  try{
+    const files=await fs.readdir(playersDir);
+    for(const file of files){
+      if(!file.endsWith('.json'))continue;
+      const name=file.slice(0,-5);
+      if(!keptSet.has(playerKey(name))){
+        await fs.unlink(path.join(playersDir,file));
+      }
+    }
+  }catch(error){if(error.code!=='ENOENT')throw error}
+  const activitiesFile=path.join(dataDir,'activities.json');
+  try{
+    const activities=await readJson(activitiesFile);
+    if(activities.snapshots?.length){
+      await writeJson(activitiesFile,{generatedAt:null,snapshots:[]});
+      console.log('Reset activities history for new world.');
+    }
+  }catch(error){if(error.code!=='ENOENT')throw error}
+  console.log(`Pruned tracked players: ${before} -> ${kept.length}`);
+}
+
 async function main(){
   excludedPlayers=new Set((await readJson(path.join(dataDir,'excluded-players.json'))).map(playerKey));
   const indexFile=path.join(dataDir,'tracked-players.json');
   const index=await readJson(indexFile);
   const args=process.argv.slice(2); const all=args.includes('--all'); const hiscoresOnly=args.includes('--hiscores-only'); const importOnly=args.includes('--import-only'); const fromIssue=args.includes('--issue'); const named=args.indexOf('--player');
   if(hiscoresOnly){await updateHiscores();return}
+  if(all){await pruneToLocalPlayers()}
+  let currentIndex=await readJson(indexFile);
   const inactiveFile=path.join(dataDir,'inactive-players.json');
   let inactive={players:[]};
   try{inactive=await readJson(inactiveFile)}catch(error){if(error.code!=='ENOENT')throw error}
   const inactiveNames=new Set(inactive.players.map(playerKey));
   const seenPlayers=new Set();
-  let allowed=index.players.filter(player=>{const key=playerKey(player);if(excludedPlayers.has(key)||seenPlayers.has(key))return false;seenPlayers.add(key);return true});
+  let allowed=currentIndex.players.filter(player=>{const key=playerKey(player);if(excludedPlayers.has(key)||seenPlayers.has(key))return false;seenPlayers.add(key);return true});
   if(all){
     const cutoff=Date.now()-30*86400000;
     const active=[]; const retired=[];
@@ -210,7 +243,7 @@ async function main(){
     inactive.players=[...new Map([...inactive.players,...retired].map(player=>[playerKey(player),player])).values()].sort((a,b)=>a.localeCompare(b));
     if(retired.length){console.log(`Inactive players: retired ${retired.length} after 30 days without XP changes`);await writeJson(inactiveFile,inactive)}
   }
-  if(allowed.length!==index.players.length)await writeJson(indexFile,{...index,players:allowed});
+  if(allowed.length!==currentIndex.players.length)await writeJson(indexFile,{...currentIndex,players:allowed});
   if(all||importOnly){
     const discovered=await fetchPlayerList();
     const known=new Set([...allowed.map(playerKey),...inactiveNames]);
@@ -221,6 +254,7 @@ async function main(){
     if(all)for(const player of allowed){try{await updatePlayer(player)}catch(error){console.error(error.message)}}
     for(const player of additions){try{await updatePlayer(player,{register:true})}catch(error){console.error(error.message)}}
   }
+  if(all){await updateHiscores()}
   else{const player=fromIssue?issuePlayer(process.env.ISSUE_BODY):args[named+1];if(!player)throw new Error('No valid player name supplied.');await updatePlayer(player,{register:true,cooldownMinutes:fromIssue?15:0})}
   await rebuildLeaderboard();
 }
