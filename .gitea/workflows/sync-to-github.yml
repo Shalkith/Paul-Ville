@@ -55,9 +55,16 @@ jobs:
             git commit -m "data: daily player snapshots"
           fi
 
+      - name: fetch and reset github main
+        env:
+          GH_TOKEN: ${{ secrets.GH_PUSH_TOKEN }}
+        run: |
+          git remote add github https://x-access-token:${GH_TOKEN}@github.com/shalkith/Paul-Ville.git
+          git fetch github main || true
+
       - name: push to github
         env:
           GH_TOKEN: ${{ secrets.GH_PUSH_TOKEN }}
         run: |
           git remote add github https://x-access-token:${GH_TOKEN}@github.com/shalkith/Paul-Ville.git
-          git push github custom:main --force-with-lease
+          git push github custom:main --force
