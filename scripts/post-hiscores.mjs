@@ -111,12 +111,14 @@ async function api(route, method = 'GET', body = null) {
 }
 
 function buildLeaderboard(skillName, rows, generatedAt) {
+  const isOverall = skillName === 'Overall';
   const lines = rows.map((row, i) => {
     const rank = String(i + 1).padStart(2, ' ');
     const player = row.player.slice(0, 12).padEnd(12, ' ');
     const level = String(row.level).padStart(3, ' ');
     const xp = fmtXp(row.xp).padStart(10, ' ');
-    return `\`#${rank}\` **${player}** — Lvl ${level} • ${xp} XP`;
+    const combat = isOverall && row.combatLevel !== undefined ? ` · Combat level ${row.combatLevel}` : '';
+    return `\`#${rank}\` **${player}** — Lvl ${level} • ${xp} XP${combat}`;
   });
 
   const header = `**${skillName} Hiscores — Top ${rows.length} players**`;
