@@ -61,9 +61,9 @@ jobs:
 
       - name: configure gitea origin remote
         env:
-          GH_PUSH_TOKEN: ${{ secrets.GH_PUSH_TOKEN }}
+          SYNC_TOKEN: ${{ secrets.SYNC_TOKEN }}
         run: |
-          git remote set-url origin http://gitea-sync:${GH_PUSH_TOKEN}@192.168.99.108:3000/Shalkith/Paul-Ville-Tracker.git
+          git remote set-url origin http://gitea-sync:${SYNC_TOKEN}@192.168.99.108:3000/Shalkith/Paul-Ville-Tracker.git
 
       - name: push Gitea custom branch first
         run: |
