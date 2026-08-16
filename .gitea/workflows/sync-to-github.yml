@@ -25,16 +25,6 @@ jobs:
           git config user.name "gitea-sync"
           git config user.email "sync@local"
 
-      - name: fetch upstream
-        run: |
-          git remote add upstream https://github.com/Magiepie/09-Tracker.git
-          git fetch upstream
-
-      - name: rebase custom onto upstream/main
-        run: |
-          git checkout custom
-          git rebase upstream/main
-
       - name: setup node
         uses: actions/setup-node@v4
         with:
@@ -68,10 +58,16 @@ jobs:
         run: |
           git remote remove github 2>/dev/null || true
           git remote add github https://x-access-token:${GH_TOKEN}@github.com/shalkith/Paul-Ville.git
-          git fetch github main || true
+
+      - name: push Gitea custom branch first
+        run: |
+          git push origin custom
 
       - name: push to github
         env:
           GH_TOKEN: ${{ secrets.GH_PUSH_TOKEN }}
         run: |
+          # Force-push to replace the GitHub main history that was previously
+          # built from rebased upstream/original-repo commits. Gitea custom is
+          # now the source of truth for Paul-Ville data.
           git push github custom:main --force
