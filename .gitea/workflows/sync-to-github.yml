@@ -59,6 +59,12 @@ jobs:
           git remote remove github 2>/dev/null || true
           git remote add github https://x-access-token:${GH_TOKEN}@github.com/shalkith/Paul-Ville.git
 
+      - name: configure gitea origin remote
+        env:
+          SYNC_TOKEN: ${{ secrets.SYNC_TOKEN }}
+        run: |
+          git remote set-url origin https://gitea-sync:${SYNC_TOKEN}@192.168.99.108:3000/Shalkith/Paul-Ville-Tracker.git
+
       - name: push Gitea custom branch first
         run: |
           git push origin custom
