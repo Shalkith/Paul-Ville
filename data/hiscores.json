@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T20:50:47.568Z",
+  "generatedAt": "2026-08-16T17:38:14.555Z",
   "limit": 100,
   "skills": {
     "0": {
@@ -8,8 +8,8 @@
         "all": [
           {
             "player": "shalkith",
-            "level": 234,
-            "xp": 104292,
+            "level": 238,
+            "xp": 107353,
             "ironMode": 0,
             "expMultiplier": 1,
             "combatLevel": 27
@@ -74,8 +74,8 @@
         "account:0": [
           {
             "player": "shalkith",
-            "level": 234,
-            "xp": 104292,
+            "level": 238,
+            "xp": 107353,
             "ironMode": 0,
             "expMultiplier": 1,
             "combatLevel": 27
@@ -140,8 +140,8 @@
         "xp:1": [
           {
             "player": "shalkith",
-            "level": 234,
-            "xp": 104292,
+            "level": 238,
+            "xp": 107353,
             "ironMode": 0,
             "expMultiplier": 1,
             "combatLevel": 27
@@ -206,8 +206,8 @@
         "account:0|xp:1": [
           {
             "player": "shalkith",
-            "level": 234,
-            "xp": 104292,
+            "level": 238,
+            "xp": 107353,
             "ironMode": 0,
             "expMultiplier": 1,
             "combatLevel": 27
@@ -277,8 +277,8 @@
         "all": [
           {
             "player": "shalkith",
-            "level": 28,
-            "xp": 11647,
+            "level": 30,
+            "xp": 13718,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -335,8 +335,8 @@
         "account:0": [
           {
             "player": "shalkith",
-            "level": 28,
-            "xp": 11647,
+            "level": 30,
+            "xp": 13718,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -393,8 +393,8 @@
         "xp:1": [
           {
             "player": "shalkith",
-            "level": 28,
-            "xp": 11647,
+            "level": 30,
+            "xp": 13718,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -451,8 +451,8 @@
         "account:0|xp:1": [
           {
             "player": "shalkith",
-            "level": 28,
-            "xp": 11647,
+            "level": 30,
+            "xp": 13718,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -988,8 +988,8 @@
         "all": [
           {
             "player": "shalkith",
-            "level": 24,
-            "xp": 7580,
+            "level": 25,
+            "xp": 8124,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1046,8 +1046,8 @@
         "account:0": [
           {
             "player": "shalkith",
-            "level": 24,
-            "xp": 7580,
+            "level": 25,
+            "xp": 8124,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1104,8 +1104,8 @@
         "xp:1": [
           {
             "player": "shalkith",
-            "level": 24,
-            "xp": 7580,
+            "level": 25,
+            "xp": 8124,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1162,8 +1162,8 @@
         "account:0|xp:1": [
           {
             "player": "shalkith",
-            "level": 24,
-            "xp": 7580,
+            "level": 25,
+            "xp": 8124,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1463,7 +1463,7 @@
           {
             "player": "shalkith",
             "level": 17,
-            "xp": 3240,
+            "xp": 3361,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1521,7 +1521,7 @@
           {
             "player": "shalkith",
             "level": 17,
-            "xp": 3240,
+            "xp": 3361,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1579,7 +1579,7 @@
           {
             "player": "shalkith",
             "level": 17,
-            "xp": 3240,
+            "xp": 3361,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1637,7 +1637,7 @@
           {
             "player": "shalkith",
             "level": 17,
-            "xp": 3240,
+            "xp": 3361,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1936,8 +1936,8 @@
         "all": [
           {
             "player": "shalkith",
-            "level": 16,
-            "xp": 2865,
+            "level": 17,
+            "xp": 3165,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1994,8 +1994,8 @@
         "account:0": [
           {
             "player": "shalkith",
-            "level": 16,
-            "xp": 2865,
+            "level": 17,
+            "xp": 3165,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -2052,8 +2052,8 @@
         "xp:1": [
           {
             "player": "shalkith",
-            "level": 16,
-            "xp": 2865,
+            "level": 17,
+            "xp": 3165,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -2110,8 +2110,8 @@
         "account:0|xp:1": [
           {
             "player": "shalkith",
-            "level": 16,
-            "xp": 2865,
+            "level": 17,
+            "xp": 3165,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -4307,7 +4307,7 @@
           {
             "player": "shalkith",
             "level": 1,
-            "xp": 16,
+            "xp": 40,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -4365,7 +4365,7 @@
           {
             "player": "shalkith",
             "level": 1,
-            "xp": 16,
+            "xp": 40,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -4423,7 +4423,7 @@
           {
             "player": "shalkith",
             "level": 1,
-            "xp": 16,
+            "xp": 40,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -4481,7 +4481,7 @@
           {
             "player": "shalkith",
             "level": 1,
-            "xp": 16,
+            "xp": 40,
             "ironMode": 0,
             "expMultiplier": 1
           },
