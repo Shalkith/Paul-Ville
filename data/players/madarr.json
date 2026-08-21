@@ -1,5 +1,5 @@
 {
-  "player": "annabellee",
+  "player": "madarr",
   "records": {
     "day": 0,
     "week": 0,
@@ -7,7 +7,7 @@
   },
   "snapshots": [
     {
-      "capturedAt": "2026-08-16T17:38:14.381Z",
+      "capturedAt": "2026-08-21T04:00:38.018Z",
       "skills": [
         {
           "id": 0,
@@ -27,12 +27,12 @@
         {
           "id": 3,
           "level": 10,
-          "xp": 1154
+          "xp": 1167
         },
         {
           "id": 4,
           "level": 1,
-          "xp": 0
+          "xp": 40
         },
         {
           "id": 5,
@@ -51,23 +51,23 @@
         },
         {
           "id": 8,
-          "level": 1,
-          "xp": 50
+          "level": 19,
+          "xp": 4237
         },
         {
           "id": 9,
-          "level": 1,
-          "xp": 0
+          "level": 8,
+          "xp": 928
         },
         {
           "id": 10,
           "level": 1,
-          "xp": 40
+          "xp": 0
         },
         {
           "id": 11,
           "level": 1,
-          "xp": 40
+          "xp": 0
         },
         {
           "id": 12,
@@ -136,5 +136,5 @@
     "exp_multiplier": "1.0",
     "iron_mode": "0"
   },
-  "lastCheckedAt": "2026-08-21T04:00:37.935Z"
+  "lastCheckedAt": "2026-08-21T04:00:38.018Z"
 }
