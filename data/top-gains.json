@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-26T04:00:38.170Z",
+  "generatedAt": "2026-08-27T04:00:32.814Z",
   "day": {
     "0": [
       {
         "player": "shalkith",
-        "gain": 25317,
-        "currentXp": 334170,
+        "gain": 26888,
+        "currentXp": 335741,
         "ironMode": 0,
         "expMultiplier": 1
       },
@@ -59,8 +59,8 @@
     "3": [
       {
         "player": "shalkith",
-        "gain": 3427,
-        "currentXp": 41702,
+        "gain": 4606,
+        "currentXp": 42881,
         "ironMode": 0,
         "expMultiplier": 1
       },
@@ -82,8 +82,8 @@
     "4": [
       {
         "player": "shalkith",
-        "gain": 1040,
-        "currentXp": 37017,
+        "gain": 1396,
+        "currentXp": 37373,
         "ironMode": 0,
         "expMultiplier": 1
       },
@@ -121,8 +121,8 @@
     "6": [
       {
         "player": "shalkith",
-        "gain": 634,
-        "currentXp": 11542,
+        "gain": 670,
+        "currentXp": 11578,
         "ironMode": 0,
         "expMultiplier": 1
       }
@@ -234,8 +234,8 @@
     "0": [
       {
         "player": "shalkith",
-        "gain": 165163,
-        "currentXp": 334170,
+        "gain": 166734,
+        "currentXp": 335741,
         "ironMode": 0,
         "expMultiplier": 1
       },
@@ -303,8 +303,8 @@
     "3": [
       {
         "player": "shalkith",
-        "gain": 33690,
-        "currentXp": 41702,
+        "gain": 34869,
+        "currentXp": 42881,
         "ironMode": 0,
         "expMultiplier": 1
       },
@@ -326,8 +326,8 @@
     "4": [
       {
         "player": "shalkith",
-        "gain": 22589,
-        "currentXp": 37017,
+        "gain": 22945,
+        "currentXp": 37373,
         "ironMode": 0,
         "expMultiplier": 1
       },
@@ -379,8 +379,8 @@
     "6": [
       {
         "player": "shalkith",
-        "gain": 6979,
-        "currentXp": 11542,
+        "gain": 7015,
+        "currentXp": 11578,
         "ironMode": 0,
         "expMultiplier": 1
       }
@@ -522,8 +522,8 @@
     "0": [
       {
         "player": "shalkith",
-        "gain": 226820,
-        "currentXp": 334170,
+        "gain": 228391,
+        "currentXp": 335741,
         "ironMode": 0,
         "expMultiplier": 1
       },
@@ -591,8 +591,8 @@
     "3": [
       {
         "player": "shalkith",
-        "gain": 35026,
-        "currentXp": 41702,
+        "gain": 36205,
+        "currentXp": 42881,
         "ironMode": 0,
         "expMultiplier": 1
       },
@@ -614,8 +614,8 @@
     "4": [
       {
         "player": "shalkith",
-        "gain": 28893,
-        "currentXp": 37017,
+        "gain": 29249,
+        "currentXp": 37373,
         "ironMode": 0,
         "expMultiplier": 1
       },
@@ -667,8 +667,8 @@
     "6": [
       {
         "player": "shalkith",
-        "gain": 8181,
-        "currentXp": 11542,
+        "gain": 8217,
+        "currentXp": 11578,
         "ironMode": 0,
         "expMultiplier": 1
       }
@@ -819,8 +819,8 @@
         "account:0": [
           {
             "player": "shalkith",
-            "gain": 25317,
-            "currentXp": 334170,
+            "gain": 26888,
+            "currentXp": 335741,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -849,8 +849,8 @@
         "xp:1": [
           {
             "player": "shalkith",
-            "gain": 25317,
-            "currentXp": 334170,
+            "gain": 26888,
+            "currentXp": 335741,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -879,8 +879,8 @@
         "account:0|xp:1": [
           {
             "player": "shalkith",
-            "gain": 25317,
-            "currentXp": 334170,
+            "gain": 26888,
+            "currentXp": 335741,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -990,8 +990,8 @@
         "account:0": [
           {
             "player": "shalkith",
-            "gain": 3427,
-            "currentXp": 41702,
+            "gain": 4606,
+            "currentXp": 42881,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1013,8 +1013,8 @@
         "xp:1": [
           {
             "player": "shalkith",
-            "gain": 3427,
-            "currentXp": 41702,
+            "gain": 4606,
+            "currentXp": 42881,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1036,8 +1036,8 @@
         "account:0|xp:1": [
           {
             "player": "shalkith",
-            "gain": 3427,
-            "currentXp": 41702,
+            "gain": 4606,
+            "currentXp": 42881,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1061,8 +1061,8 @@
         "account:0": [
           {
             "player": "shalkith",
-            "gain": 1040,
-            "currentXp": 37017,
+            "gain": 1396,
+            "currentXp": 37373,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1084,8 +1084,8 @@
         "xp:1": [
           {
             "player": "shalkith",
-            "gain": 1040,
-            "currentXp": 37017,
+            "gain": 1396,
+            "currentXp": 37373,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1107,8 +1107,8 @@
         "account:0|xp:1": [
           {
             "player": "shalkith",
-            "gain": 1040,
-            "currentXp": 37017,
+            "gain": 1396,
+            "currentXp": 37373,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1182,8 +1182,8 @@
         "account:0": [
           {
             "player": "shalkith",
-            "gain": 634,
-            "currentXp": 11542,
+            "gain": 670,
+            "currentXp": 11578,
             "ironMode": 0,
             "expMultiplier": 1
           }
@@ -1191,8 +1191,8 @@
         "xp:1": [
           {
             "player": "shalkith",
-            "gain": 634,
-            "currentXp": 11542,
+            "gain": 670,
+            "currentXp": 11578,
             "ironMode": 0,
             "expMultiplier": 1
           }
@@ -1200,8 +1200,8 @@
         "account:0|xp:1": [
           {
             "player": "shalkith",
-            "gain": 634,
-            "currentXp": 11542,
+            "gain": 670,
+            "currentXp": 11578,
             "ironMode": 0,
             "expMultiplier": 1
           }
@@ -1511,8 +1511,8 @@
         "account:0": [
           {
             "player": "shalkith",
-            "gain": 165163,
-            "currentXp": 334170,
+            "gain": 166734,
+            "currentXp": 335741,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1541,8 +1541,8 @@
         "xp:1": [
           {
             "player": "shalkith",
-            "gain": 165163,
-            "currentXp": 334170,
+            "gain": 166734,
+            "currentXp": 335741,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1571,8 +1571,8 @@
         "account:0|xp:1": [
           {
             "player": "shalkith",
-            "gain": 165163,
-            "currentXp": 334170,
+            "gain": 166734,
+            "currentXp": 335741,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1724,8 +1724,8 @@
         "account:0": [
           {
             "player": "shalkith",
-            "gain": 33690,
-            "currentXp": 41702,
+            "gain": 34869,
+            "currentXp": 42881,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1747,8 +1747,8 @@
         "xp:1": [
           {
             "player": "shalkith",
-            "gain": 33690,
-            "currentXp": 41702,
+            "gain": 34869,
+            "currentXp": 42881,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1770,8 +1770,8 @@
         "account:0|xp:1": [
           {
             "player": "shalkith",
-            "gain": 33690,
-            "currentXp": 41702,
+            "gain": 34869,
+            "currentXp": 42881,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1795,8 +1795,8 @@
         "account:0": [
           {
             "player": "shalkith",
-            "gain": 22589,
-            "currentXp": 37017,
+            "gain": 22945,
+            "currentXp": 37373,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1825,8 +1825,8 @@
         "xp:1": [
           {
             "player": "shalkith",
-            "gain": 22589,
-            "currentXp": 37017,
+            "gain": 22945,
+            "currentXp": 37373,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1855,8 +1855,8 @@
         "account:0|xp:1": [
           {
             "player": "shalkith",
-            "gain": 22589,
-            "currentXp": 37017,
+            "gain": 22945,
+            "currentXp": 37373,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1958,8 +1958,8 @@
         "account:0": [
           {
             "player": "shalkith",
-            "gain": 6979,
-            "currentXp": 11542,
+            "gain": 7015,
+            "currentXp": 11578,
             "ironMode": 0,
             "expMultiplier": 1
           }
@@ -1967,8 +1967,8 @@
         "xp:1": [
           {
             "player": "shalkith",
-            "gain": 6979,
-            "currentXp": 11542,
+            "gain": 7015,
+            "currentXp": 11578,
             "ironMode": 0,
             "expMultiplier": 1
           }
@@ -1976,8 +1976,8 @@
         "account:0|xp:1": [
           {
             "player": "shalkith",
-            "gain": 6979,
-            "currentXp": 11542,
+            "gain": 7015,
+            "currentXp": 11578,
             "ironMode": 0,
             "expMultiplier": 1
           }
@@ -2385,8 +2385,8 @@
         "account:0": [
           {
             "player": "shalkith",
-            "gain": 226820,
-            "currentXp": 334170,
+            "gain": 228391,
+            "currentXp": 335741,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -2415,8 +2415,8 @@
         "xp:1": [
           {
             "player": "shalkith",
-            "gain": 226820,
-            "currentXp": 334170,
+            "gain": 228391,
+            "currentXp": 335741,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -2445,8 +2445,8 @@
         "account:0|xp:1": [
           {
             "player": "shalkith",
-            "gain": 226820,
-            "currentXp": 334170,
+            "gain": 228391,
+            "currentXp": 335741,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -2598,8 +2598,8 @@
         "account:0": [
           {
             "player": "shalkith",
-            "gain": 35026,
-            "currentXp": 41702,
+            "gain": 36205,
+            "currentXp": 42881,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -2621,8 +2621,8 @@
         "xp:1": [
           {
             "player": "shalkith",
-            "gain": 35026,
-            "currentXp": 41702,
+            "gain": 36205,
+            "currentXp": 42881,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -2644,8 +2644,8 @@
         "account:0|xp:1": [
           {
             "player": "shalkith",
-            "gain": 35026,
-            "currentXp": 41702,
+            "gain": 36205,
+            "currentXp": 42881,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -2669,8 +2669,8 @@
         "account:0": [
           {
             "player": "shalkith",
-            "gain": 28893,
-            "currentXp": 37017,
+            "gain": 29249,
+            "currentXp": 37373,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -2699,8 +2699,8 @@
         "xp:1": [
           {
             "player": "shalkith",
-            "gain": 28893,
-            "currentXp": 37017,
+            "gain": 29249,
+            "currentXp": 37373,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -2729,8 +2729,8 @@
         "account:0|xp:1": [
           {
             "player": "shalkith",
-            "gain": 28893,
-            "currentXp": 37017,
+            "gain": 29249,
+            "currentXp": 37373,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -2832,8 +2832,8 @@
         "account:0": [
           {
             "player": "shalkith",
-            "gain": 8181,
-            "currentXp": 11542,
+            "gain": 8217,
+            "currentXp": 11578,
             "ironMode": 0,
             "expMultiplier": 1
           }
@@ -2841,8 +2841,8 @@
         "xp:1": [
           {
             "player": "shalkith",
-            "gain": 8181,
-            "currentXp": 11542,
+            "gain": 8217,
+            "currentXp": 11578,
             "ironMode": 0,
             "expMultiplier": 1
           }
@@ -2850,8 +2850,8 @@
         "account:0|xp:1": [
           {
             "player": "shalkith",
-            "gain": 8181,
-            "currentXp": 11542,
+            "gain": 8217,
+            "currentXp": 11578,
             "ironMode": 0,
             "expMultiplier": 1
           }
