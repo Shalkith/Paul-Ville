@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-30T04:00:36.058Z",
+  "generatedAt": "2026-08-31T04:00:33.120Z",
   "day": {
     "0": [
       {
         "player": "shalkith",
-        "gain": 43888,
-        "currentXp": 379629,
+        "gain": 32900,
+        "currentXp": 412529,
         "ironMode": 0,
         "expMultiplier": 1
       },
@@ -17,6 +17,34 @@
         "expMultiplier": 1
       },
       {
+        "player": "jj",
+        "gain": 4056,
+        "currentXp": 6888,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "ratler",
+        "gain": 3896,
+        "currentXp": 6247,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "desertbiopnk",
+        "gain": 2729,
+        "currentXp": 4286,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "crzypnda",
+        "gain": 566,
+        "currentXp": 1730,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
         "player": "annabellee",
         "gain": 508,
         "currentXp": 1792,
@@ -24,23 +52,72 @@
         "expMultiplier": 1
       },
       {
-        "player": "jj",
-        "gain": 200,
-        "currentXp": 2832,
+        "player": "bwand_rin",
+        "gain": 322,
+        "currentXp": 1626,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "midnight",
+        "gain": 68,
+        "currentXp": 2168,
         "ironMode": 0,
         "expMultiplier": 1
       }
     ],
     "1": [
       {
+        "player": "ratler",
+        "gain": 892,
+        "currentXp": 1300,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "desertbiopnk",
+        "gain": 816,
+        "currentXp": 860,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "crzypnda",
+        "gain": 188,
+        "currentXp": 188,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
         "player": "annabellee",
         "gain": 40,
         "currentXp": 40,
         "ironMode": 0,
         "expMultiplier": 1
+      },
+      {
+        "player": "midnight",
+        "gain": 7,
+        "currentXp": 50,
+        "ironMode": 0,
+        "expMultiplier": 1
       }
     ],
     "2": [
+      {
+        "player": "ratler",
+        "gain": 502,
+        "currentXp": 502,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "midnight",
+        "gain": 35,
+        "currentXp": 66,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
       {
         "player": "annabellee",
         "gain": 4,
@@ -52,8 +129,36 @@
     "3": [
       {
         "player": "shalkith",
-        "gain": 26426,
-        "currentXp": 69307,
+        "gain": 21994,
+        "currentXp": 91301,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "jj",
+        "gain": 2144,
+        "currentXp": 2761,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "ratler",
+        "gain": 472,
+        "currentXp": 480,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "crzypnda",
+        "gain": 164,
+        "currentXp": 164,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "bwand_rin",
+        "gain": 60,
+        "currentXp": 60,
         "ironMode": 0,
         "expMultiplier": 1
       },
@@ -63,13 +168,55 @@
         "currentXp": 24,
         "ironMode": 0,
         "expMultiplier": 1
+      },
+      {
+        "player": "midnight",
+        "gain": 6,
+        "currentXp": 186,
+        "ironMode": 0,
+        "expMultiplier": 1
       }
     ],
     "4": [
       {
         "player": "shalkith",
-        "gain": 8370,
-        "currentXp": 45743,
+        "gain": 6710,
+        "currentXp": 52453,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "jj",
+        "gain": 712,
+        "currentXp": 2084,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "ratler",
+        "gain": 677,
+        "currentXp": 1971,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "desertbiopnk",
+        "gain": 271,
+        "currentXp": 1454,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "crzypnda",
+        "gain": 123,
+        "currentXp": 1279,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "bwand_rin",
+        "gain": 42,
+        "currentXp": 1196,
         "ironMode": 0,
         "expMultiplier": 1
       },
@@ -77,6 +224,13 @@
         "player": "annabellee",
         "gain": 33,
         "currentXp": 1187,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "midnight",
+        "gain": 16,
+        "currentXp": 1271,
         "ironMode": 0,
         "expMultiplier": 1
       }
@@ -88,18 +242,60 @@
         "currentXp": 20,
         "ironMode": 0,
         "expMultiplier": 1
+      },
+      {
+        "player": "bwand_rin",
+        "gain": 20,
+        "currentXp": 20,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "crzypnda",
+        "gain": 16,
+        "currentXp": 24,
+        "ironMode": 0,
+        "expMultiplier": 1
       }
     ],
     "6": [
       {
         "player": "shalkith",
-        "gain": 3322,
-        "currentXp": 14900,
+        "gain": 320,
+        "currentXp": 15220,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "desertbiopnk",
+        "gain": 112,
+        "currentXp": 112,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "midnight",
+        "gain": 4,
+        "currentXp": 31,
         "ironMode": 0,
         "expMultiplier": 1
       }
     ],
     "7": [
+      {
+        "player": "ratler",
+        "gain": 783,
+        "currentXp": 825,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "bwand_rin",
+        "gain": 147,
+        "currentXp": 147,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
       {
         "player": "annabellee",
         "gain": 34,
@@ -109,6 +305,34 @@
       }
     ],
     "8": [
+      {
+        "player": "shalkith",
+        "gain": 1500,
+        "currentXp": 12831,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "jj",
+        "gain": 1200,
+        "currentXp": 1500,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "ratler",
+        "gain": 570,
+        "currentXp": 1140,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "desertbiopnk",
+        "gain": 360,
+        "currentXp": 360,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
       {
         "player": "annabellee",
         "gain": 300,
@@ -124,6 +348,20 @@
         "currentXp": 31104,
         "ironMode": 0,
         "expMultiplier": 1
+      },
+      {
+        "player": "desertbiopnk",
+        "gain": 450,
+        "currentXp": 550,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "crzypnda",
+        "gain": 75,
+        "currentXp": 75,
+        "ironMode": 0,
+        "expMultiplier": 1
       }
     ],
     "10": [
@@ -136,28 +374,21 @@
       }
     ],
     "11": [],
-    "12": [],
-    "13": [
+    "12": [
       {
-        "player": "jj",
-        "gain": 200,
-        "currentXp": 200,
-        "ironMode": 0,
-        "expMultiplier": 1
-      },
-      {
-        "player": "shalkith",
-        "gain": 134,
-        "currentXp": 10595,
+        "player": "desertbiopnk",
+        "gain": 720,
+        "currentXp": 800,
         "ironMode": 0,
         "expMultiplier": 1
       }
     ],
+    "13": [],
     "14": [
       {
         "player": "shalkith",
-        "gain": 1039,
-        "currentXp": 41257,
+        "gain": 468,
+        "currentXp": 41725,
         "ironMode": 0,
         "expMultiplier": 1
       },
@@ -167,18 +398,32 @@
         "currentXp": 18,
         "ironMode": 0,
         "expMultiplier": 1
+      },
+      {
+        "player": "bwand_rin",
+        "gain": 18,
+        "currentXp": 18,
+        "ironMode": 0,
+        "expMultiplier": 1
       }
     ],
     "15": [
       {
         "player": "shalkith",
-        "gain": 4312,
-        "currentXp": 97752,
+        "gain": 1908,
+        "currentXp": 99660,
         "ironMode": 0,
         "expMultiplier": 1
       },
       {
         "player": "annabellee",
+        "gain": 35,
+        "currentXp": 35,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "bwand_rin",
         "gain": 35,
         "currentXp": 35,
         "ironMode": 0,
@@ -193,22 +438,14 @@
     "21": [],
     "22": [],
     "23": [],
-    "24": [
-      {
-        "player": "shalkith",
-        "gain": 285,
-        "currentXp": 285,
-        "ironMode": 0,
-        "expMultiplier": 1
-      }
-    ]
+    "24": []
   },
   "week": {
     "0": [
       {
         "player": "shalkith",
-        "gain": 185792,
-        "currentXp": 379629,
+        "gain": 187400,
+        "currentXp": 412529,
         "ironMode": 0,
         "expMultiplier": 1
       },
@@ -221,8 +458,29 @@
       },
       {
         "player": "jj",
-        "gain": 1402,
-        "currentXp": 2832,
+        "gain": 5458,
+        "currentXp": 6888,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "ratler",
+        "gain": 3896,
+        "currentXp": 6247,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "desertbiopnk",
+        "gain": 2729,
+        "currentXp": 4286,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "crzypnda",
+        "gain": 566,
+        "currentXp": 1730,
         "ironMode": 0,
         "expMultiplier": 1
       },
@@ -232,13 +490,48 @@
         "currentXp": 1792,
         "ironMode": 0,
         "expMultiplier": 1
+      },
+      {
+        "player": "bwand_rin",
+        "gain": 322,
+        "currentXp": 1626,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "midnight",
+        "gain": 68,
+        "currentXp": 2168,
+        "ironMode": 0,
+        "expMultiplier": 1
       }
     ],
     "1": [
       {
         "player": "shalkith",
-        "gain": 11709,
+        "gain": 3932,
         "currentXp": 37600,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "ratler",
+        "gain": 892,
+        "currentXp": 1300,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "desertbiopnk",
+        "gain": 816,
+        "currentXp": 860,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "crzypnda",
+        "gain": 188,
+        "currentXp": 188,
         "ironMode": 0,
         "expMultiplier": 1
       },
@@ -246,6 +539,13 @@
         "player": "annabellee",
         "gain": 40,
         "currentXp": 40,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "midnight",
+        "gain": 7,
+        "currentXp": 50,
         "ironMode": 0,
         "expMultiplier": 1
       },
@@ -260,8 +560,22 @@
     "2": [
       {
         "player": "shalkith",
-        "gain": 21237,
+        "gain": 18711,
         "currentXp": 37285,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "ratler",
+        "gain": 502,
+        "currentXp": 502,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "midnight",
+        "gain": 35,
+        "currentXp": 66,
         "ironMode": 0,
         "expMultiplier": 1
       },
@@ -276,15 +590,36 @@
     "3": [
       {
         "player": "shalkith",
-        "gain": 61295,
-        "currentXp": 69307,
+        "gain": 83289,
+        "currentXp": 91301,
         "ironMode": 0,
         "expMultiplier": 1
       },
       {
         "player": "jj",
-        "gain": 597,
-        "currentXp": 617,
+        "gain": 2741,
+        "currentXp": 2761,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "ratler",
+        "gain": 472,
+        "currentXp": 480,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "crzypnda",
+        "gain": 164,
+        "currentXp": 164,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "bwand_rin",
+        "gain": 60,
+        "currentXp": 60,
         "ironMode": 0,
         "expMultiplier": 1
       },
@@ -294,20 +629,55 @@
         "currentXp": 24,
         "ironMode": 0,
         "expMultiplier": 1
+      },
+      {
+        "player": "midnight",
+        "gain": 6,
+        "currentXp": 186,
+        "ironMode": 0,
+        "expMultiplier": 1
       }
     ],
     "4": [
       {
         "player": "shalkith",
-        "gain": 28921,
-        "currentXp": 45743,
+        "gain": 32483,
+        "currentXp": 52453,
         "ironMode": 0,
         "expMultiplier": 1
       },
       {
         "player": "jj",
-        "gain": 203,
-        "currentXp": 1372,
+        "gain": 915,
+        "currentXp": 2084,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "ratler",
+        "gain": 677,
+        "currentXp": 1971,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "desertbiopnk",
+        "gain": 271,
+        "currentXp": 1454,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "crzypnda",
+        "gain": 123,
+        "currentXp": 1279,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "bwand_rin",
+        "gain": 42,
+        "currentXp": 1196,
         "ironMode": 0,
         "expMultiplier": 1
       },
@@ -315,6 +685,13 @@
         "player": "annabellee",
         "gain": 33,
         "currentXp": 1187,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "midnight",
+        "gain": 16,
+        "currentXp": 1271,
         "ironMode": 0,
         "expMultiplier": 1
       },
@@ -347,18 +724,60 @@
         "currentXp": 20,
         "ironMode": 0,
         "expMultiplier": 1
+      },
+      {
+        "player": "bwand_rin",
+        "gain": 20,
+        "currentXp": 20,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "crzypnda",
+        "gain": 16,
+        "currentXp": 24,
+        "ironMode": 0,
+        "expMultiplier": 1
       }
     ],
     "6": [
       {
         "player": "shalkith",
-        "gain": 10090,
-        "currentXp": 14900,
+        "gain": 9343,
+        "currentXp": 15220,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "desertbiopnk",
+        "gain": 112,
+        "currentXp": 112,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "midnight",
+        "gain": 4,
+        "currentXp": 31,
         "ironMode": 0,
         "expMultiplier": 1
       }
     ],
     "7": [
+      {
+        "player": "ratler",
+        "gain": 783,
+        "currentXp": 825,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "bwand_rin",
+        "gain": 147,
+        "currentXp": 147,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
       {
         "player": "jj",
         "gain": 42,
@@ -377,20 +796,34 @@
     "8": [
       {
         "player": "shalkith",
-        "gain": 1580,
-        "currentXp": 11331,
-        "ironMode": 0,
-        "expMultiplier": 1
-      },
-      {
-        "player": "annabellee",
-        "gain": 300,
-        "currentXp": 300,
+        "gain": 2390,
+        "currentXp": 12831,
         "ironMode": 0,
         "expMultiplier": 1
       },
       {
         "player": "jj",
+        "gain": 1500,
+        "currentXp": 1500,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "ratler",
+        "gain": 570,
+        "currentXp": 1140,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "desertbiopnk",
+        "gain": 360,
+        "currentXp": 360,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "annabellee",
         "gain": 300,
         "currentXp": 300,
         "ironMode": 0,
@@ -402,6 +835,20 @@
         "player": "madarr",
         "gain": 26867,
         "currentXp": 31104,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "desertbiopnk",
+        "gain": 450,
+        "currentXp": 550,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "crzypnda",
+        "gain": 75,
+        "currentXp": 75,
         "ironMode": 0,
         "expMultiplier": 1
       }
@@ -416,7 +863,15 @@
       }
     ],
     "11": [],
-    "12": [],
+    "12": [
+      {
+        "player": "desertbiopnk",
+        "gain": 720,
+        "currentXp": 800,
+        "ironMode": 0,
+        "expMultiplier": 1
+      }
+    ],
     "13": [
       {
         "player": "shalkith",
@@ -436,8 +891,8 @@
     "14": [
       {
         "player": "shalkith",
-        "gain": 14778,
-        "currentXp": 41257,
+        "gain": 10256,
+        "currentXp": 41725,
         "ironMode": 0,
         "expMultiplier": 1
       },
@@ -447,18 +902,32 @@
         "currentXp": 18,
         "ironMode": 0,
         "expMultiplier": 1
+      },
+      {
+        "player": "bwand_rin",
+        "gain": 18,
+        "currentXp": 18,
+        "ironMode": 0,
+        "expMultiplier": 1
       }
     ],
     "15": [
       {
         "player": "shalkith",
-        "gain": 34345,
-        "currentXp": 97752,
+        "gain": 25159,
+        "currentXp": 99660,
         "ironMode": 0,
         "expMultiplier": 1
       },
       {
         "player": "annabellee",
+        "gain": 35,
+        "currentXp": 35,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "bwand_rin",
         "gain": 35,
         "currentXp": 35,
         "ironMode": 0,
@@ -503,8 +972,8 @@
     "0": [
       {
         "player": "shalkith",
-        "gain": 272279,
-        "currentXp": 379629,
+        "gain": 305179,
+        "currentXp": 412529,
         "ironMode": 0,
         "expMultiplier": 1
       },
@@ -517,8 +986,29 @@
       },
       {
         "player": "jj",
-        "gain": 1402,
-        "currentXp": 2832,
+        "gain": 5458,
+        "currentXp": 6888,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "ratler",
+        "gain": 3896,
+        "currentXp": 6247,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "desertbiopnk",
+        "gain": 2729,
+        "currentXp": 4286,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "crzypnda",
+        "gain": 566,
+        "currentXp": 1730,
         "ironMode": 0,
         "expMultiplier": 1
       },
@@ -526,6 +1016,20 @@
         "player": "annabellee",
         "gain": 508,
         "currentXp": 1792,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "bwand_rin",
+        "gain": 322,
+        "currentXp": 1626,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "midnight",
+        "gain": 68,
+        "currentXp": 2168,
         "ironMode": 0,
         "expMultiplier": 1
       }
@@ -539,9 +1043,37 @@
         "expMultiplier": 1
       },
       {
+        "player": "ratler",
+        "gain": 892,
+        "currentXp": 1300,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "desertbiopnk",
+        "gain": 816,
+        "currentXp": 860,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "crzypnda",
+        "gain": 188,
+        "currentXp": 188,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
         "player": "annabellee",
         "gain": 40,
         "currentXp": 40,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "midnight",
+        "gain": 7,
+        "currentXp": 50,
         "ironMode": 0,
         "expMultiplier": 1
       },
@@ -562,6 +1094,20 @@
         "expMultiplier": 1
       },
       {
+        "player": "ratler",
+        "gain": 502,
+        "currentXp": 502,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "midnight",
+        "gain": 35,
+        "currentXp": 66,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
         "player": "annabellee",
         "gain": 4,
         "currentXp": 4,
@@ -572,15 +1118,36 @@
     "3": [
       {
         "player": "shalkith",
-        "gain": 62631,
-        "currentXp": 69307,
+        "gain": 84625,
+        "currentXp": 91301,
         "ironMode": 0,
         "expMultiplier": 1
       },
       {
         "player": "jj",
-        "gain": 597,
-        "currentXp": 617,
+        "gain": 2741,
+        "currentXp": 2761,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "ratler",
+        "gain": 472,
+        "currentXp": 480,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "crzypnda",
+        "gain": 164,
+        "currentXp": 164,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "bwand_rin",
+        "gain": 60,
+        "currentXp": 60,
         "ironMode": 0,
         "expMultiplier": 1
       },
@@ -590,20 +1157,55 @@
         "currentXp": 24,
         "ironMode": 0,
         "expMultiplier": 1
+      },
+      {
+        "player": "midnight",
+        "gain": 6,
+        "currentXp": 186,
+        "ironMode": 0,
+        "expMultiplier": 1
       }
     ],
     "4": [
       {
         "player": "shalkith",
-        "gain": 37619,
-        "currentXp": 45743,
+        "gain": 44329,
+        "currentXp": 52453,
         "ironMode": 0,
         "expMultiplier": 1
       },
       {
         "player": "jj",
-        "gain": 203,
-        "currentXp": 1372,
+        "gain": 915,
+        "currentXp": 2084,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "ratler",
+        "gain": 677,
+        "currentXp": 1971,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "desertbiopnk",
+        "gain": 271,
+        "currentXp": 1454,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "crzypnda",
+        "gain": 123,
+        "currentXp": 1279,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "bwand_rin",
+        "gain": 42,
+        "currentXp": 1196,
         "ironMode": 0,
         "expMultiplier": 1
       },
@@ -611,6 +1213,13 @@
         "player": "annabellee",
         "gain": 33,
         "currentXp": 1187,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "midnight",
+        "gain": 16,
+        "currentXp": 1271,
         "ironMode": 0,
         "expMultiplier": 1
       },
@@ -643,13 +1252,41 @@
         "currentXp": 20,
         "ironMode": 0,
         "expMultiplier": 1
+      },
+      {
+        "player": "bwand_rin",
+        "gain": 20,
+        "currentXp": 20,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "crzypnda",
+        "gain": 16,
+        "currentXp": 24,
+        "ironMode": 0,
+        "expMultiplier": 1
       }
     ],
     "6": [
       {
         "player": "shalkith",
-        "gain": 11539,
-        "currentXp": 14900,
+        "gain": 11859,
+        "currentXp": 15220,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "desertbiopnk",
+        "gain": 112,
+        "currentXp": 112,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "midnight",
+        "gain": 4,
+        "currentXp": 31,
         "ironMode": 0,
         "expMultiplier": 1
       }
@@ -659,6 +1296,20 @@
         "player": "shalkith",
         "gain": 6638,
         "currentXp": 7584,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "ratler",
+        "gain": 783,
+        "currentXp": 825,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "bwand_rin",
+        "gain": 147,
+        "currentXp": 147,
         "ironMode": 0,
         "expMultiplier": 1
       },
@@ -680,20 +1331,34 @@
     "8": [
       {
         "player": "shalkith",
-        "gain": 8166,
-        "currentXp": 11331,
-        "ironMode": 0,
-        "expMultiplier": 1
-      },
-      {
-        "player": "annabellee",
-        "gain": 300,
-        "currentXp": 300,
+        "gain": 9666,
+        "currentXp": 12831,
         "ironMode": 0,
         "expMultiplier": 1
       },
       {
         "player": "jj",
+        "gain": 1500,
+        "currentXp": 1500,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "ratler",
+        "gain": 570,
+        "currentXp": 1140,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "desertbiopnk",
+        "gain": 360,
+        "currentXp": 360,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "annabellee",
         "gain": 300,
         "currentXp": 300,
         "ironMode": 0,
@@ -705,6 +1370,20 @@
         "player": "madarr",
         "gain": 26867,
         "currentXp": 31104,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "desertbiopnk",
+        "gain": 450,
+        "currentXp": 550,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "crzypnda",
+        "gain": 75,
+        "currentXp": 75,
         "ironMode": 0,
         "expMultiplier": 1
       }
@@ -719,7 +1398,15 @@
       }
     ],
     "11": [],
-    "12": [],
+    "12": [
+      {
+        "player": "desertbiopnk",
+        "gain": 720,
+        "currentXp": 800,
+        "ironMode": 0,
+        "expMultiplier": 1
+      }
+    ],
     "13": [
       {
         "player": "shalkith",
@@ -739,8 +1426,8 @@
     "14": [
       {
         "player": "shalkith",
-        "gain": 25070,
-        "currentXp": 41257,
+        "gain": 25538,
+        "currentXp": 41725,
         "ironMode": 0,
         "expMultiplier": 1
       },
@@ -750,18 +1437,32 @@
         "currentXp": 18,
         "ironMode": 0,
         "expMultiplier": 1
+      },
+      {
+        "player": "bwand_rin",
+        "gain": 18,
+        "currentXp": 18,
+        "ironMode": 0,
+        "expMultiplier": 1
       }
     ],
     "15": [
       {
         "player": "shalkith",
-        "gain": 48667,
-        "currentXp": 97752,
+        "gain": 50575,
+        "currentXp": 99660,
         "ironMode": 0,
         "expMultiplier": 1
       },
       {
         "player": "annabellee",
+        "gain": 35,
+        "currentXp": 35,
+        "ironMode": 0,
+        "expMultiplier": 1
+      },
+      {
+        "player": "bwand_rin",
         "gain": 35,
         "currentXp": 35,
         "ironMode": 0,
@@ -815,8 +1516,8 @@
         "account:0": [
           {
             "player": "shalkith",
-            "gain": 43888,
-            "currentXp": 379629,
+            "gain": 32900,
+            "currentXp": 412529,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -828,6 +1529,34 @@
             "expMultiplier": 1
           },
           {
+            "player": "jj",
+            "gain": 4056,
+            "currentXp": 6888,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "gain": 3896,
+            "currentXp": 6247,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "desertbiopnk",
+            "gain": 2729,
+            "currentXp": 4286,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "crzypnda",
+            "gain": 566,
+            "currentXp": 1730,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
             "player": "annabellee",
             "gain": 508,
             "currentXp": 1792,
@@ -835,9 +1564,16 @@
             "expMultiplier": 1
           },
           {
-            "player": "jj",
-            "gain": 200,
-            "currentXp": 2832,
+            "player": "bwand_rin",
+            "gain": 322,
+            "currentXp": 1626,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "gain": 68,
+            "currentXp": 2168,
             "ironMode": 0,
             "expMultiplier": 1
           }
@@ -845,8 +1581,8 @@
         "xp:1": [
           {
             "player": "shalkith",
-            "gain": 43888,
-            "currentXp": 379629,
+            "gain": 32900,
+            "currentXp": 412529,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -858,6 +1594,34 @@
             "expMultiplier": 1
           },
           {
+            "player": "jj",
+            "gain": 4056,
+            "currentXp": 6888,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "gain": 3896,
+            "currentXp": 6247,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "desertbiopnk",
+            "gain": 2729,
+            "currentXp": 4286,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "crzypnda",
+            "gain": 566,
+            "currentXp": 1730,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
             "player": "annabellee",
             "gain": 508,
             "currentXp": 1792,
@@ -865,9 +1629,16 @@
             "expMultiplier": 1
           },
           {
-            "player": "jj",
-            "gain": 200,
-            "currentXp": 2832,
+            "player": "bwand_rin",
+            "gain": 322,
+            "currentXp": 1626,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "gain": 68,
+            "currentXp": 2168,
             "ironMode": 0,
             "expMultiplier": 1
           }
@@ -875,8 +1646,8 @@
         "account:0|xp:1": [
           {
             "player": "shalkith",
-            "gain": 43888,
-            "currentXp": 379629,
+            "gain": 32900,
+            "currentXp": 412529,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -888,6 +1659,34 @@
             "expMultiplier": 1
           },
           {
+            "player": "jj",
+            "gain": 4056,
+            "currentXp": 6888,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "gain": 3896,
+            "currentXp": 6247,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "desertbiopnk",
+            "gain": 2729,
+            "currentXp": 4286,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "crzypnda",
+            "gain": 566,
+            "currentXp": 1730,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
             "player": "annabellee",
             "gain": 508,
             "currentXp": 1792,
@@ -895,9 +1694,16 @@
             "expMultiplier": 1
           },
           {
-            "player": "jj",
-            "gain": 200,
-            "currentXp": 2832,
+            "player": "bwand_rin",
+            "gain": 322,
+            "currentXp": 1626,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "gain": 68,
+            "currentXp": 2168,
             "ironMode": 0,
             "expMultiplier": 1
           }
@@ -906,27 +1712,111 @@
       "1": {
         "account:0": [
           {
+            "player": "ratler",
+            "gain": 892,
+            "currentXp": 1300,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "desertbiopnk",
+            "gain": 816,
+            "currentXp": 860,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "crzypnda",
+            "gain": 188,
+            "currentXp": 188,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
             "player": "annabellee",
             "gain": 40,
             "currentXp": 40,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "gain": 7,
+            "currentXp": 50,
             "ironMode": 0,
             "expMultiplier": 1
           }
         ],
         "xp:1": [
           {
+            "player": "ratler",
+            "gain": 892,
+            "currentXp": 1300,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "desertbiopnk",
+            "gain": 816,
+            "currentXp": 860,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "crzypnda",
+            "gain": 188,
+            "currentXp": 188,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
             "player": "annabellee",
             "gain": 40,
             "currentXp": 40,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "gain": 7,
+            "currentXp": 50,
             "ironMode": 0,
             "expMultiplier": 1
           }
         ],
         "account:0|xp:1": [
           {
+            "player": "ratler",
+            "gain": 892,
+            "currentXp": 1300,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "desertbiopnk",
+            "gain": 816,
+            "currentXp": 860,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "crzypnda",
+            "gain": 188,
+            "currentXp": 188,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
             "player": "annabellee",
             "gain": 40,
             "currentXp": 40,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "gain": 7,
+            "currentXp": 50,
             "ironMode": 0,
             "expMultiplier": 1
           }
@@ -935,6 +1825,20 @@
       "2": {
         "account:0": [
           {
+            "player": "ratler",
+            "gain": 502,
+            "currentXp": 502,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "gain": 35,
+            "currentXp": 66,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
             "player": "annabellee",
             "gain": 4,
             "currentXp": 4,
@@ -944,6 +1848,20 @@
         ],
         "xp:1": [
           {
+            "player": "ratler",
+            "gain": 502,
+            "currentXp": 502,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "gain": 35,
+            "currentXp": 66,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
             "player": "annabellee",
             "gain": 4,
             "currentXp": 4,
@@ -952,6 +1870,20 @@
           }
         ],
         "account:0|xp:1": [
+          {
+            "player": "ratler",
+            "gain": 502,
+            "currentXp": 502,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "gain": 35,
+            "currentXp": 66,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
           {
             "player": "annabellee",
             "gain": 4,
@@ -965,8 +1897,36 @@
         "account:0": [
           {
             "player": "shalkith",
-            "gain": 26426,
-            "currentXp": 69307,
+            "gain": 21994,
+            "currentXp": 91301,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "gain": 2144,
+            "currentXp": 2761,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "gain": 472,
+            "currentXp": 480,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "crzypnda",
+            "gain": 164,
+            "currentXp": 164,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "gain": 60,
+            "currentXp": 60,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -974,6 +1934,13 @@
             "player": "annabellee",
             "gain": 24,
             "currentXp": 24,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "gain": 6,
+            "currentXp": 186,
             "ironMode": 0,
             "expMultiplier": 1
           }
@@ -981,8 +1948,36 @@
         "xp:1": [
           {
             "player": "shalkith",
-            "gain": 26426,
-            "currentXp": 69307,
+            "gain": 21994,
+            "currentXp": 91301,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "gain": 2144,
+            "currentXp": 2761,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "gain": 472,
+            "currentXp": 480,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "crzypnda",
+            "gain": 164,
+            "currentXp": 164,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "gain": 60,
+            "currentXp": 60,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -990,6 +1985,13 @@
             "player": "annabellee",
             "gain": 24,
             "currentXp": 24,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "gain": 6,
+            "currentXp": 186,
             "ironMode": 0,
             "expMultiplier": 1
           }
@@ -997,8 +1999,36 @@
         "account:0|xp:1": [
           {
             "player": "shalkith",
-            "gain": 26426,
-            "currentXp": 69307,
+            "gain": 21994,
+            "currentXp": 91301,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "gain": 2144,
+            "currentXp": 2761,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "gain": 472,
+            "currentXp": 480,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "crzypnda",
+            "gain": 164,
+            "currentXp": 164,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "gain": 60,
+            "currentXp": 60,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1006,6 +2036,13 @@
             "player": "annabellee",
             "gain": 24,
             "currentXp": 24,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "gain": 6,
+            "currentXp": 186,
             "ironMode": 0,
             "expMultiplier": 1
           }
@@ -1015,8 +2052,43 @@
         "account:0": [
           {
             "player": "shalkith",
-            "gain": 8370,
-            "currentXp": 45743,
+            "gain": 6710,
+            "currentXp": 52453,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "gain": 712,
+            "currentXp": 2084,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "gain": 677,
+            "currentXp": 1971,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "desertbiopnk",
+            "gain": 271,
+            "currentXp": 1454,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "crzypnda",
+            "gain": 123,
+            "currentXp": 1279,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "gain": 42,
+            "currentXp": 1196,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1024,6 +2096,13 @@
             "player": "annabellee",
             "gain": 33,
             "currentXp": 1187,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "gain": 16,
+            "currentXp": 1271,
             "ironMode": 0,
             "expMultiplier": 1
           }
@@ -1031,8 +2110,43 @@
         "xp:1": [
           {
             "player": "shalkith",
-            "gain": 8370,
-            "currentXp": 45743,
+            "gain": 6710,
+            "currentXp": 52453,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "gain": 712,
+            "currentXp": 2084,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "gain": 677,
+            "currentXp": 1971,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "desertbiopnk",
+            "gain": 271,
+            "currentXp": 1454,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "crzypnda",
+            "gain": 123,
+            "currentXp": 1279,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "gain": 42,
+            "currentXp": 1196,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1040,6 +2154,13 @@
             "player": "annabellee",
             "gain": 33,
             "currentXp": 1187,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "gain": 16,
+            "currentXp": 1271,
             "ironMode": 0,
             "expMultiplier": 1
           }
@@ -1047,8 +2168,43 @@
         "account:0|xp:1": [
           {
             "player": "shalkith",
-            "gain": 8370,
-            "currentXp": 45743,
+            "gain": 6710,
+            "currentXp": 52453,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "gain": 712,
+            "currentXp": 2084,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "gain": 677,
+            "currentXp": 1971,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "desertbiopnk",
+            "gain": 271,
+            "currentXp": 1454,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "crzypnda",
+            "gain": 123,
+            "currentXp": 1279,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "gain": 42,
+            "currentXp": 1196,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1056,6 +2212,13 @@
             "player": "annabellee",
             "gain": 33,
             "currentXp": 1187,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "gain": 16,
+            "currentXp": 1271,
             "ironMode": 0,
             "expMultiplier": 1
           }
@@ -1069,6 +2232,20 @@
             "currentXp": 20,
             "ironMode": 0,
             "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "gain": 20,
+            "currentXp": 20,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "crzypnda",
+            "gain": 16,
+            "currentXp": 24,
+            "ironMode": 0,
+            "expMultiplier": 1
           }
         ],
         "xp:1": [
@@ -1078,6 +2255,20 @@
             "currentXp": 20,
             "ironMode": 0,
             "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "gain": 20,
+            "currentXp": 20,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "crzypnda",
+            "gain": 16,
+            "currentXp": 24,
+            "ironMode": 0,
+            "expMultiplier": 1
           }
         ],
         "account:0|xp:1": [
@@ -1085,6 +2276,20 @@
             "player": "annabellee",
             "gain": 20,
             "currentXp": 20,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "gain": 20,
+            "currentXp": 20,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "crzypnda",
+            "gain": 16,
+            "currentXp": 24,
             "ironMode": 0,
             "expMultiplier": 1
           }
@@ -1094,8 +2299,22 @@
         "account:0": [
           {
             "player": "shalkith",
-            "gain": 3322,
-            "currentXp": 14900,
+            "gain": 320,
+            "currentXp": 15220,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "desertbiopnk",
+            "gain": 112,
+            "currentXp": 112,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "gain": 4,
+            "currentXp": 31,
             "ironMode": 0,
             "expMultiplier": 1
           }
@@ -1103,8 +2322,22 @@
         "xp:1": [
           {
             "player": "shalkith",
-            "gain": 3322,
-            "currentXp": 14900,
+            "gain": 320,
+            "currentXp": 15220,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "desertbiopnk",
+            "gain": 112,
+            "currentXp": 112,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "gain": 4,
+            "currentXp": 31,
             "ironMode": 0,
             "expMultiplier": 1
           }
@@ -1112,8 +2345,22 @@
         "account:0|xp:1": [
           {
             "player": "shalkith",
-            "gain": 3322,
-            "currentXp": 14900,
+            "gain": 320,
+            "currentXp": 15220,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "desertbiopnk",
+            "gain": 112,
+            "currentXp": 112,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "gain": 4,
+            "currentXp": 31,
             "ironMode": 0,
             "expMultiplier": 1
           }
@@ -1122,6 +2369,20 @@
       "7": {
         "account:0": [
           {
+            "player": "ratler",
+            "gain": 783,
+            "currentXp": 825,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "gain": 147,
+            "currentXp": 147,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
             "player": "annabellee",
             "gain": 34,
             "currentXp": 34,
@@ -1131,6 +2392,20 @@
         ],
         "xp:1": [
           {
+            "player": "ratler",
+            "gain": 783,
+            "currentXp": 825,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "gain": 147,
+            "currentXp": 147,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
             "player": "annabellee",
             "gain": 34,
             "currentXp": 34,
@@ -1139,6 +2414,20 @@
           }
         ],
         "account:0|xp:1": [
+          {
+            "player": "ratler",
+            "gain": 783,
+            "currentXp": 825,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "gain": 147,
+            "currentXp": 147,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
           {
             "player": "annabellee",
             "gain": 34,
@@ -1151,6 +2440,34 @@
       "8": {
         "account:0": [
           {
+            "player": "shalkith",
+            "gain": 1500,
+            "currentXp": 12831,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "gain": 1200,
+            "currentXp": 1500,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "gain": 570,
+            "currentXp": 1140,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "desertbiopnk",
+            "gain": 360,
+            "currentXp": 360,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
             "player": "annabellee",
             "gain": 300,
             "currentXp": 300,
@@ -1160,6 +2477,34 @@
         ],
         "xp:1": [
           {
+            "player": "shalkith",
+            "gain": 1500,
+            "currentXp": 12831,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "gain": 1200,
+            "currentXp": 1500,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "gain": 570,
+            "currentXp": 1140,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "desertbiopnk",
+            "gain": 360,
+            "currentXp": 360,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
             "player": "annabellee",
             "gain": 300,
             "currentXp": 300,
@@ -1168,6 +2513,34 @@
           }
         ],
         "account:0|xp:1": [
+          {
+            "player": "shalkith",
+            "gain": 1500,
+            "currentXp": 12831,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "jj",
+            "gain": 1200,
+            "currentXp": 1500,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "gain": 570,
+            "currentXp": 1140,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "desertbiopnk",
+            "gain": 360,
+            "currentXp": 360,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
           {
             "player": "annabellee",
             "gain": 300,
@@ -1185,6 +2558,20 @@
             "currentXp": 31104,
             "ironMode": 0,
             "expMultiplier": 1
+          },
+          {
+            "player": "desertbiopnk",
+            "gain": 450,
+            "currentXp": 550,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "crzypnda",
+            "gain": 75,
+            "currentXp": 75,
+            "ironMode": 0,
+            "expMultiplier": 1
           }
         ],
         "xp:1": [
@@ -1194,6 +2581,20 @@
             "currentXp": 31104,
             "ironMode": 0,
             "expMultiplier": 1
+          },
+          {
+            "player": "desertbiopnk",
+            "gain": 450,
+            "currentXp": 550,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "crzypnda",
+            "gain": 75,
+            "currentXp": 75,
+            "ironMode": 0,
+            "expMultiplier": 1
           }
         ],
         "account:0|xp:1": [
@@ -1201,6 +2602,20 @@
             "player": "madarr",
             "gain": 10576,
             "currentXp": 31104,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "desertbiopnk",
+            "gain": 450,
+            "currentXp": 550,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "crzypnda",
+            "gain": 75,
+            "currentXp": 75,
             "ironMode": 0,
             "expMultiplier": 1
           }
@@ -1236,68 +2651,54 @@
         ]
       },
       "11": {},
-      "12": {},
-      "13": {
+      "12": {
         "account:0": [
           {
-            "player": "jj",
-            "gain": 200,
-            "currentXp": 200,
-            "ironMode": 0,
-            "expMultiplier": 1
-          },
-          {
-            "player": "shalkith",
-            "gain": 134,
-            "currentXp": 10595,
+            "player": "desertbiopnk",
+            "gain": 720,
+            "currentXp": 800,
             "ironMode": 0,
             "expMultiplier": 1
           }
         ],
         "xp:1": [
           {
-            "player": "jj",
-            "gain": 200,
-            "currentXp": 200,
-            "ironMode": 0,
-            "expMultiplier": 1
-          },
-          {
-            "player": "shalkith",
-            "gain": 134,
-            "currentXp": 10595,
+            "player": "desertbiopnk",
+            "gain": 720,
+            "currentXp": 800,
             "ironMode": 0,
             "expMultiplier": 1
           }
         ],
         "account:0|xp:1": [
           {
-            "player": "jj",
-            "gain": 200,
-            "currentXp": 200,
-            "ironMode": 0,
-            "expMultiplier": 1
-          },
-          {
-            "player": "shalkith",
-            "gain": 134,
-            "currentXp": 10595,
+            "player": "desertbiopnk",
+            "gain": 720,
+            "currentXp": 800,
             "ironMode": 0,
             "expMultiplier": 1
           }
         ]
       },
+      "13": {},
       "14": {
         "account:0": [
           {
             "player": "shalkith",
-            "gain": 1039,
-            "currentXp": 41257,
+            "gain": 468,
+            "currentXp": 41725,
             "ironMode": 0,
             "expMultiplier": 1
           },
           {
             "player": "annabellee",
+            "gain": 18,
+            "currentXp": 18,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
             "gain": 18,
             "currentXp": 18,
             "ironMode": 0,
@@ -1307,8 +2708,8 @@
         "xp:1": [
           {
             "player": "shalkith",
-            "gain": 1039,
-            "currentXp": 41257,
+            "gain": 468,
+            "currentXp": 41725,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1318,18 +2719,32 @@
             "currentXp": 18,
             "ironMode": 0,
             "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "gain": 18,
+            "currentXp": 18,
+            "ironMode": 0,
+            "expMultiplier": 1
           }
         ],
         "account:0|xp:1": [
           {
             "player": "shalkith",
-            "gain": 1039,
-            "currentXp": 41257,
+            "gain": 468,
+            "currentXp": 41725,
             "ironMode": 0,
             "expMultiplier": 1
           },
           {
             "player": "annabellee",
+            "gain": 18,
+            "currentXp": 18,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
             "gain": 18,
             "currentXp": 18,
             "ironMode": 0,
@@ -1341,13 +2756,20 @@
         "account:0": [
           {
             "player": "shalkith",
-            "gain": 4312,
-            "currentXp": 97752,
+            "gain": 1908,
+            "currentXp": 99660,
             "ironMode": 0,
             "expMultiplier": 1
           },
           {
             "player": "annabellee",
+            "gain": 35,
+            "currentXp": 35,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
             "gain": 35,
             "currentXp": 35,
             "ironMode": 0,
@@ -1357,8 +2779,8 @@
         "xp:1": [
           {
             "player": "shalkith",
-            "gain": 4312,
-            "currentXp": 97752,
+            "gain": 1908,
+            "currentXp": 99660,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1368,18 +2790,32 @@
             "currentXp": 35,
             "ironMode": 0,
             "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "gain": 35,
+            "currentXp": 35,
+            "ironMode": 0,
+            "expMultiplier": 1
           }
         ],
         "account:0|xp:1": [
           {
             "player": "shalkith",
-            "gain": 4312,
-            "currentXp": 97752,
+            "gain": 1908,
+            "currentXp": 99660,
             "ironMode": 0,
             "expMultiplier": 1
           },
           {
             "player": "annabellee",
+            "gain": 35,
+            "currentXp": 35,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
             "gain": 35,
             "currentXp": 35,
             "ironMode": 0,
@@ -1395,43 +2831,15 @@
       "21": {},
       "22": {},
       "23": {},
-      "24": {
-        "account:0": [
-          {
-            "player": "shalkith",
-            "gain": 285,
-            "currentXp": 285,
-            "ironMode": 0,
-            "expMultiplier": 1
-          }
-        ],
-        "xp:1": [
-          {
-            "player": "shalkith",
-            "gain": 285,
-            "currentXp": 285,
-            "ironMode": 0,
-            "expMultiplier": 1
-          }
-        ],
-        "account:0|xp:1": [
-          {
-            "player": "shalkith",
-            "gain": 285,
-            "currentXp": 285,
-            "ironMode": 0,
-            "expMultiplier": 1
-          }
-        ]
-      }
+      "24": {}
     },
     "week": {
       "0": {
         "account:0": [
           {
             "player": "shalkith",
-            "gain": 185792,
-            "currentXp": 379629,
+            "gain": 187400,
+            "currentXp": 412529,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1444,8 +2852,29 @@
           },
           {
             "player": "jj",
-            "gain": 1402,
-            "currentXp": 2832,
+            "gain": 5458,
+            "currentXp": 6888,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "gain": 3896,
+            "currentXp": 6247,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "desertbiopnk",
+            "gain": 2729,
+            "currentXp": 4286,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "crzypnda",
+            "gain": 566,
+            "currentXp": 1730,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1453,6 +2882,20 @@
             "player": "annabellee",
             "gain": 508,
             "currentXp": 1792,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "gain": 322,
+            "currentXp": 1626,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "gain": 68,
+            "currentXp": 2168,
             "ironMode": 0,
             "expMultiplier": 1
           }
@@ -1460,8 +2903,8 @@
         "xp:1": [
           {
             "player": "shalkith",
-            "gain": 185792,
-            "currentXp": 379629,
+            "gain": 187400,
+            "currentXp": 412529,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1474,8 +2917,29 @@
           },
           {
             "player": "jj",
-            "gain": 1402,
-            "currentXp": 2832,
+            "gain": 5458,
+            "currentXp": 6888,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "gain": 3896,
+            "currentXp": 6247,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "desertbiopnk",
+            "gain": 2729,
+            "currentXp": 4286,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "crzypnda",
+            "gain": 566,
+            "currentXp": 1730,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1483,6 +2947,20 @@
             "player": "annabellee",
             "gain": 508,
             "currentXp": 1792,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "gain": 322,
+            "currentXp": 1626,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "gain": 68,
+            "currentXp": 2168,
             "ironMode": 0,
             "expMultiplier": 1
           }
@@ -1490,8 +2968,8 @@
         "account:0|xp:1": [
           {
             "player": "shalkith",
-            "gain": 185792,
-            "currentXp": 379629,
+            "gain": 187400,
+            "currentXp": 412529,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1504,8 +2982,29 @@
           },
           {
             "player": "jj",
-            "gain": 1402,
-            "currentXp": 2832,
+            "gain": 5458,
+            "currentXp": 6888,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "gain": 3896,
+            "currentXp": 6247,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "desertbiopnk",
+            "gain": 2729,
+            "currentXp": 4286,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "crzypnda",
+            "gain": 566,
+            "currentXp": 1730,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1513,6 +3012,20 @@
             "player": "annabellee",
             "gain": 508,
             "currentXp": 1792,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "gain": 322,
+            "currentXp": 1626,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "gain": 68,
+            "currentXp": 2168,
             "ironMode": 0,
             "expMultiplier": 1
           }
@@ -1522,8 +3035,29 @@
         "account:0": [
           {
             "player": "shalkith",
-            "gain": 11709,
+            "gain": 3932,
             "currentXp": 37600,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "gain": 892,
+            "currentXp": 1300,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "desertbiopnk",
+            "gain": 816,
+            "currentXp": 860,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "crzypnda",
+            "gain": 188,
+            "currentXp": 188,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1531,6 +3065,13 @@
             "player": "annabellee",
             "gain": 40,
             "currentXp": 40,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "gain": 7,
+            "currentXp": 50,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1545,8 +3086,29 @@
         "xp:1": [
           {
             "player": "shalkith",
-            "gain": 11709,
+            "gain": 3932,
             "currentXp": 37600,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "gain": 892,
+            "currentXp": 1300,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "desertbiopnk",
+            "gain": 816,
+            "currentXp": 860,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "crzypnda",
+            "gain": 188,
+            "currentXp": 188,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1554,6 +3116,13 @@
             "player": "annabellee",
             "gain": 40,
             "currentXp": 40,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "gain": 7,
+            "currentXp": 50,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1568,8 +3137,29 @@
         "account:0|xp:1": [
           {
             "player": "shalkith",
-            "gain": 11709,
+            "gain": 3932,
             "currentXp": 37600,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "gain": 892,
+            "currentXp": 1300,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "desertbiopnk",
+            "gain": 816,
+            "currentXp": 860,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "crzypnda",
+            "gain": 188,
+            "currentXp": 188,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1577,6 +3167,13 @@
             "player": "annabellee",
             "gain": 40,
             "currentXp": 40,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "gain": 7,
+            "currentXp": 50,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1593,8 +3190,22 @@
         "account:0": [
           {
             "player": "shalkith",
-            "gain": 21237,
+            "gain": 18711,
             "currentXp": 37285,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "gain": 502,
+            "currentXp": 502,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "gain": 35,
+            "currentXp": 66,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1609,8 +3220,22 @@
         "xp:1": [
           {
             "player": "shalkith",
-            "gain": 21237,
+            "gain": 18711,
             "currentXp": 37285,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "gain": 502,
+            "currentXp": 502,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "gain": 35,
+            "currentXp": 66,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1625,8 +3250,22 @@
         "account:0|xp:1": [
           {
             "player": "shalkith",
-            "gain": 21237,
+            "gain": 18711,
             "currentXp": 37285,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "gain": 502,
+            "currentXp": 502,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "gain": 35,
+            "currentXp": 66,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1643,15 +3282,36 @@
         "account:0": [
           {
             "player": "shalkith",
-            "gain": 61295,
-            "currentXp": 69307,
+            "gain": 83289,
+            "currentXp": 91301,
             "ironMode": 0,
             "expMultiplier": 1
           },
           {
             "player": "jj",
-            "gain": 597,
-            "currentXp": 617,
+            "gain": 2741,
+            "currentXp": 2761,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "gain": 472,
+            "currentXp": 480,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "crzypnda",
+            "gain": 164,
+            "currentXp": 164,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "gain": 60,
+            "currentXp": 60,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1659,6 +3319,13 @@
             "player": "annabellee",
             "gain": 24,
             "currentXp": 24,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "gain": 6,
+            "currentXp": 186,
             "ironMode": 0,
             "expMultiplier": 1
           }
@@ -1666,15 +3333,36 @@
         "xp:1": [
           {
             "player": "shalkith",
-            "gain": 61295,
-            "currentXp": 69307,
+            "gain": 83289,
+            "currentXp": 91301,
             "ironMode": 0,
             "expMultiplier": 1
           },
           {
             "player": "jj",
-            "gain": 597,
-            "currentXp": 617,
+            "gain": 2741,
+            "currentXp": 2761,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "gain": 472,
+            "currentXp": 480,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "crzypnda",
+            "gain": 164,
+            "currentXp": 164,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "gain": 60,
+            "currentXp": 60,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1682,6 +3370,13 @@
             "player": "annabellee",
             "gain": 24,
             "currentXp": 24,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "gain": 6,
+            "currentXp": 186,
             "ironMode": 0,
             "expMultiplier": 1
           }
@@ -1689,15 +3384,36 @@
         "account:0|xp:1": [
           {
             "player": "shalkith",
-            "gain": 61295,
-            "currentXp": 69307,
+            "gain": 83289,
+            "currentXp": 91301,
             "ironMode": 0,
             "expMultiplier": 1
           },
           {
             "player": "jj",
-            "gain": 597,
-            "currentXp": 617,
+            "gain": 2741,
+            "currentXp": 2761,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "gain": 472,
+            "currentXp": 480,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "crzypnda",
+            "gain": 164,
+            "currentXp": 164,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "gain": 60,
+            "currentXp": 60,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1705,6 +3421,13 @@
             "player": "annabellee",
             "gain": 24,
             "currentXp": 24,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "gain": 6,
+            "currentXp": 186,
             "ironMode": 0,
             "expMultiplier": 1
           }
@@ -1714,15 +3437,43 @@
         "account:0": [
           {
             "player": "shalkith",
-            "gain": 28921,
-            "currentXp": 45743,
+            "gain": 32483,
+            "currentXp": 52453,
             "ironMode": 0,
             "expMultiplier": 1
           },
           {
             "player": "jj",
-            "gain": 203,
-            "currentXp": 1372,
+            "gain": 915,
+            "currentXp": 2084,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "gain": 677,
+            "currentXp": 1971,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "desertbiopnk",
+            "gain": 271,
+            "currentXp": 1454,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "crzypnda",
+            "gain": 123,
+            "currentXp": 1279,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "gain": 42,
+            "currentXp": 1196,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1730,6 +3481,13 @@
             "player": "annabellee",
             "gain": 33,
             "currentXp": 1187,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "gain": 16,
+            "currentXp": 1271,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1744,15 +3502,43 @@
         "xp:1": [
           {
             "player": "shalkith",
-            "gain": 28921,
-            "currentXp": 45743,
+            "gain": 32483,
+            "currentXp": 52453,
             "ironMode": 0,
             "expMultiplier": 1
           },
           {
             "player": "jj",
-            "gain": 203,
-            "currentXp": 1372,
+            "gain": 915,
+            "currentXp": 2084,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "gain": 677,
+            "currentXp": 1971,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "desertbiopnk",
+            "gain": 271,
+            "currentXp": 1454,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "crzypnda",
+            "gain": 123,
+            "currentXp": 1279,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "gain": 42,
+            "currentXp": 1196,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1760,6 +3546,13 @@
             "player": "annabellee",
             "gain": 33,
             "currentXp": 1187,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "gain": 16,
+            "currentXp": 1271,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1774,15 +3567,43 @@
         "account:0|xp:1": [
           {
             "player": "shalkith",
-            "gain": 28921,
-            "currentXp": 45743,
+            "gain": 32483,
+            "currentXp": 52453,
             "ironMode": 0,
             "expMultiplier": 1
           },
           {
             "player": "jj",
-            "gain": 203,
-            "currentXp": 1372,
+            "gain": 915,
+            "currentXp": 2084,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "gain": 677,
+            "currentXp": 1971,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "desertbiopnk",
+            "gain": 271,
+            "currentXp": 1454,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "crzypnda",
+            "gain": 123,
+            "currentXp": 1279,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "gain": 42,
+            "currentXp": 1196,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1790,6 +3611,13 @@
             "player": "annabellee",
             "gain": 33,
             "currentXp": 1187,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "gain": 16,
+            "currentXp": 1271,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1824,6 +3652,20 @@
             "currentXp": 20,
             "ironMode": 0,
             "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "gain": 20,
+            "currentXp": 20,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "crzypnda",
+            "gain": 16,
+            "currentXp": 24,
+            "ironMode": 0,
+            "expMultiplier": 1
           }
         ],
         "xp:1": [
@@ -1847,6 +3689,20 @@
             "currentXp": 20,
             "ironMode": 0,
             "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "gain": 20,
+            "currentXp": 20,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "crzypnda",
+            "gain": 16,
+            "currentXp": 24,
+            "ironMode": 0,
+            "expMultiplier": 1
           }
         ],
         "account:0|xp:1": [
@@ -1868,6 +3724,20 @@
             "player": "annabellee",
             "gain": 20,
             "currentXp": 20,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "gain": 20,
+            "currentXp": 20,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "crzypnda",
+            "gain": 16,
+            "currentXp": 24,
             "ironMode": 0,
             "expMultiplier": 1
           }
@@ -1877,8 +3747,22 @@
         "account:0": [
           {
             "player": "shalkith",
-            "gain": 10090,
-            "currentXp": 14900,
+            "gain": 9343,
+            "currentXp": 15220,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "desertbiopnk",
+            "gain": 112,
+            "currentXp": 112,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "gain": 4,
+            "currentXp": 31,
             "ironMode": 0,
             "expMultiplier": 1
           }
@@ -1886,8 +3770,22 @@
         "xp:1": [
           {
             "player": "shalkith",
-            "gain": 10090,
-            "currentXp": 14900,
+            "gain": 9343,
+            "currentXp": 15220,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "desertbiopnk",
+            "gain": 112,
+            "currentXp": 112,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "gain": 4,
+            "currentXp": 31,
             "ironMode": 0,
             "expMultiplier": 1
           }
@@ -1895,8 +3793,22 @@
         "account:0|xp:1": [
           {
             "player": "shalkith",
-            "gain": 10090,
-            "currentXp": 14900,
+            "gain": 9343,
+            "currentXp": 15220,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "desertbiopnk",
+            "gain": 112,
+            "currentXp": 112,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "gain": 4,
+            "currentXp": 31,
             "ironMode": 0,
             "expMultiplier": 1
           }
@@ -1905,6 +3817,20 @@
       "7": {
         "account:0": [
           {
+            "player": "ratler",
+            "gain": 783,
+            "currentXp": 825,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "gain": 147,
+            "currentXp": 147,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
             "player": "jj",
             "gain": 42,
             "currentXp": 42,
@@ -1921,6 +3847,20 @@
         ],
         "xp:1": [
           {
+            "player": "ratler",
+            "gain": 783,
+            "currentXp": 825,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "gain": 147,
+            "currentXp": 147,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
             "player": "jj",
             "gain": 42,
             "currentXp": 42,
@@ -1936,6 +3876,20 @@
           }
         ],
         "account:0|xp:1": [
+          {
+            "player": "ratler",
+            "gain": 783,
+            "currentXp": 825,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "gain": 147,
+            "currentXp": 147,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
           {
             "player": "jj",
             "gain": 42,
@@ -1956,20 +3910,34 @@
         "account:0": [
           {
             "player": "shalkith",
-            "gain": 1580,
-            "currentXp": 11331,
-            "ironMode": 0,
-            "expMultiplier": 1
-          },
-          {
-            "player": "annabellee",
-            "gain": 300,
-            "currentXp": 300,
+            "gain": 2390,
+            "currentXp": 12831,
             "ironMode": 0,
             "expMultiplier": 1
           },
           {
             "player": "jj",
+            "gain": 1500,
+            "currentXp": 1500,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "gain": 570,
+            "currentXp": 1140,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "desertbiopnk",
+            "gain": 360,
+            "currentXp": 360,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
             "gain": 300,
             "currentXp": 300,
             "ironMode": 0,
@@ -1979,20 +3947,34 @@
         "xp:1": [
           {
             "player": "shalkith",
-            "gain": 1580,
-            "currentXp": 11331,
-            "ironMode": 0,
-            "expMultiplier": 1
-          },
-          {
-            "player": "annabellee",
-            "gain": 300,
-            "currentXp": 300,
+            "gain": 2390,
+            "currentXp": 12831,
             "ironMode": 0,
             "expMultiplier": 1
           },
           {
             "player": "jj",
+            "gain": 1500,
+            "currentXp": 1500,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "gain": 570,
+            "currentXp": 1140,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "desertbiopnk",
+            "gain": 360,
+            "currentXp": 360,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
             "gain": 300,
             "currentXp": 300,
             "ironMode": 0,
@@ -2002,20 +3984,34 @@
         "account:0|xp:1": [
           {
             "player": "shalkith",
-            "gain": 1580,
-            "currentXp": 11331,
-            "ironMode": 0,
-            "expMultiplier": 1
-          },
-          {
-            "player": "annabellee",
-            "gain": 300,
-            "currentXp": 300,
+            "gain": 2390,
+            "currentXp": 12831,
             "ironMode": 0,
             "expMultiplier": 1
           },
           {
             "player": "jj",
+            "gain": 1500,
+            "currentXp": 1500,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "gain": 570,
+            "currentXp": 1140,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "desertbiopnk",
+            "gain": 360,
+            "currentXp": 360,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
             "gain": 300,
             "currentXp": 300,
             "ironMode": 0,
@@ -2031,6 +4027,20 @@
             "currentXp": 31104,
             "ironMode": 0,
             "expMultiplier": 1
+          },
+          {
+            "player": "desertbiopnk",
+            "gain": 450,
+            "currentXp": 550,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "crzypnda",
+            "gain": 75,
+            "currentXp": 75,
+            "ironMode": 0,
+            "expMultiplier": 1
           }
         ],
         "xp:1": [
@@ -2040,6 +4050,20 @@
             "currentXp": 31104,
             "ironMode": 0,
             "expMultiplier": 1
+          },
+          {
+            "player": "desertbiopnk",
+            "gain": 450,
+            "currentXp": 550,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "crzypnda",
+            "gain": 75,
+            "currentXp": 75,
+            "ironMode": 0,
+            "expMultiplier": 1
           }
         ],
         "account:0|xp:1": [
@@ -2047,6 +4071,20 @@
             "player": "madarr",
             "gain": 26867,
             "currentXp": 31104,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "desertbiopnk",
+            "gain": 450,
+            "currentXp": 550,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "crzypnda",
+            "gain": 75,
+            "currentXp": 75,
             "ironMode": 0,
             "expMultiplier": 1
           }
@@ -2082,7 +4120,35 @@
         ]
       },
       "11": {},
-      "12": {},
+      "12": {
+        "account:0": [
+          {
+            "player": "desertbiopnk",
+            "gain": 720,
+            "currentXp": 800,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "xp:1": [
+          {
+            "player": "desertbiopnk",
+            "gain": 720,
+            "currentXp": 800,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "account:0|xp:1": [
+          {
+            "player": "desertbiopnk",
+            "gain": 720,
+            "currentXp": 800,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ]
+      },
       "13": {
         "account:0": [
           {
@@ -2137,13 +4203,20 @@
         "account:0": [
           {
             "player": "shalkith",
-            "gain": 14778,
-            "currentXp": 41257,
+            "gain": 10256,
+            "currentXp": 41725,
             "ironMode": 0,
             "expMultiplier": 1
           },
           {
             "player": "annabellee",
+            "gain": 18,
+            "currentXp": 18,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
             "gain": 18,
             "currentXp": 18,
             "ironMode": 0,
@@ -2153,8 +4226,8 @@
         "xp:1": [
           {
             "player": "shalkith",
-            "gain": 14778,
-            "currentXp": 41257,
+            "gain": 10256,
+            "currentXp": 41725,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -2164,18 +4237,32 @@
             "currentXp": 18,
             "ironMode": 0,
             "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "gain": 18,
+            "currentXp": 18,
+            "ironMode": 0,
+            "expMultiplier": 1
           }
         ],
         "account:0|xp:1": [
           {
             "player": "shalkith",
-            "gain": 14778,
-            "currentXp": 41257,
+            "gain": 10256,
+            "currentXp": 41725,
             "ironMode": 0,
             "expMultiplier": 1
           },
           {
             "player": "annabellee",
+            "gain": 18,
+            "currentXp": 18,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
             "gain": 18,
             "currentXp": 18,
             "ironMode": 0,
@@ -2187,13 +4274,20 @@
         "account:0": [
           {
             "player": "shalkith",
-            "gain": 34345,
-            "currentXp": 97752,
+            "gain": 25159,
+            "currentXp": 99660,
             "ironMode": 0,
             "expMultiplier": 1
           },
           {
             "player": "annabellee",
+            "gain": 35,
+            "currentXp": 35,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
             "gain": 35,
             "currentXp": 35,
             "ironMode": 0,
@@ -2203,8 +4297,8 @@
         "xp:1": [
           {
             "player": "shalkith",
-            "gain": 34345,
-            "currentXp": 97752,
+            "gain": 25159,
+            "currentXp": 99660,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -2214,18 +4308,32 @@
             "currentXp": 35,
             "ironMode": 0,
             "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "gain": 35,
+            "currentXp": 35,
+            "ironMode": 0,
+            "expMultiplier": 1
           }
         ],
         "account:0|xp:1": [
           {
             "player": "shalkith",
-            "gain": 34345,
-            "currentXp": 97752,
+            "gain": 25159,
+            "currentXp": 99660,
             "ironMode": 0,
             "expMultiplier": 1
           },
           {
             "player": "annabellee",
+            "gain": 35,
+            "currentXp": 35,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
             "gain": 35,
             "currentXp": 35,
             "ironMode": 0,
@@ -2332,8 +4440,8 @@
         "account:0": [
           {
             "player": "shalkith",
-            "gain": 272279,
-            "currentXp": 379629,
+            "gain": 305179,
+            "currentXp": 412529,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -2346,8 +4454,29 @@
           },
           {
             "player": "jj",
-            "gain": 1402,
-            "currentXp": 2832,
+            "gain": 5458,
+            "currentXp": 6888,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "gain": 3896,
+            "currentXp": 6247,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "desertbiopnk",
+            "gain": 2729,
+            "currentXp": 4286,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "crzypnda",
+            "gain": 566,
+            "currentXp": 1730,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -2355,6 +4484,20 @@
             "player": "annabellee",
             "gain": 508,
             "currentXp": 1792,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "gain": 322,
+            "currentXp": 1626,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "gain": 68,
+            "currentXp": 2168,
             "ironMode": 0,
             "expMultiplier": 1
           }
@@ -2362,8 +4505,8 @@
         "xp:1": [
           {
             "player": "shalkith",
-            "gain": 272279,
-            "currentXp": 379629,
+            "gain": 305179,
+            "currentXp": 412529,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -2376,8 +4519,29 @@
           },
           {
             "player": "jj",
-            "gain": 1402,
-            "currentXp": 2832,
+            "gain": 5458,
+            "currentXp": 6888,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "gain": 3896,
+            "currentXp": 6247,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "desertbiopnk",
+            "gain": 2729,
+            "currentXp": 4286,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "crzypnda",
+            "gain": 566,
+            "currentXp": 1730,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -2385,6 +4549,20 @@
             "player": "annabellee",
             "gain": 508,
             "currentXp": 1792,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "gain": 322,
+            "currentXp": 1626,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "gain": 68,
+            "currentXp": 2168,
             "ironMode": 0,
             "expMultiplier": 1
           }
@@ -2392,8 +4570,8 @@
         "account:0|xp:1": [
           {
             "player": "shalkith",
-            "gain": 272279,
-            "currentXp": 379629,
+            "gain": 305179,
+            "currentXp": 412529,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -2406,8 +4584,29 @@
           },
           {
             "player": "jj",
-            "gain": 1402,
-            "currentXp": 2832,
+            "gain": 5458,
+            "currentXp": 6888,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "gain": 3896,
+            "currentXp": 6247,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "desertbiopnk",
+            "gain": 2729,
+            "currentXp": 4286,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "crzypnda",
+            "gain": 566,
+            "currentXp": 1730,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -2415,6 +4614,20 @@
             "player": "annabellee",
             "gain": 508,
             "currentXp": 1792,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "gain": 322,
+            "currentXp": 1626,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "gain": 68,
+            "currentXp": 2168,
             "ironMode": 0,
             "expMultiplier": 1
           }
@@ -2430,9 +4643,37 @@
             "expMultiplier": 1
           },
           {
+            "player": "ratler",
+            "gain": 892,
+            "currentXp": 1300,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "desertbiopnk",
+            "gain": 816,
+            "currentXp": 860,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "crzypnda",
+            "gain": 188,
+            "currentXp": 188,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
             "player": "annabellee",
             "gain": 40,
             "currentXp": 40,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "gain": 7,
+            "currentXp": 50,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -2453,9 +4694,37 @@
             "expMultiplier": 1
           },
           {
+            "player": "ratler",
+            "gain": 892,
+            "currentXp": 1300,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "desertbiopnk",
+            "gain": 816,
+            "currentXp": 860,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "crzypnda",
+            "gain": 188,
+            "currentXp": 188,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
             "player": "annabellee",
             "gain": 40,
             "currentXp": 40,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "gain": 7,
+            "currentXp": 50,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -2476,9 +4745,37 @@
             "expMultiplier": 1
           },
           {
+            "player": "ratler",
+            "gain": 892,
+            "currentXp": 1300,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "desertbiopnk",
+            "gain": 816,
+            "currentXp": 860,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "crzypnda",
+            "gain": 188,
+            "currentXp": 188,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
             "player": "annabellee",
             "gain": 40,
             "currentXp": 40,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "gain": 7,
+            "currentXp": 50,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -2501,6 +4798,20 @@
             "expMultiplier": 1
           },
           {
+            "player": "ratler",
+            "gain": 502,
+            "currentXp": 502,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "gain": 35,
+            "currentXp": 66,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
             "player": "annabellee",
             "gain": 4,
             "currentXp": 4,
@@ -2517,6 +4828,20 @@
             "expMultiplier": 1
           },
           {
+            "player": "ratler",
+            "gain": 502,
+            "currentXp": 502,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "gain": 35,
+            "currentXp": 66,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
             "player": "annabellee",
             "gain": 4,
             "currentXp": 4,
@@ -2529,6 +4854,20 @@
             "player": "shalkith",
             "gain": 36087,
             "currentXp": 37285,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "gain": 502,
+            "currentXp": 502,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "gain": 35,
+            "currentXp": 66,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -2545,15 +4884,36 @@
         "account:0": [
           {
             "player": "shalkith",
-            "gain": 62631,
-            "currentXp": 69307,
+            "gain": 84625,
+            "currentXp": 91301,
             "ironMode": 0,
             "expMultiplier": 1
           },
           {
             "player": "jj",
-            "gain": 597,
-            "currentXp": 617,
+            "gain": 2741,
+            "currentXp": 2761,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "gain": 472,
+            "currentXp": 480,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "crzypnda",
+            "gain": 164,
+            "currentXp": 164,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "gain": 60,
+            "currentXp": 60,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -2561,6 +4921,13 @@
             "player": "annabellee",
             "gain": 24,
             "currentXp": 24,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "gain": 6,
+            "currentXp": 186,
             "ironMode": 0,
             "expMultiplier": 1
           }
@@ -2568,15 +4935,36 @@
         "xp:1": [
           {
             "player": "shalkith",
-            "gain": 62631,
-            "currentXp": 69307,
+            "gain": 84625,
+            "currentXp": 91301,
             "ironMode": 0,
             "expMultiplier": 1
           },
           {
             "player": "jj",
-            "gain": 597,
-            "currentXp": 617,
+            "gain": 2741,
+            "currentXp": 2761,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "gain": 472,
+            "currentXp": 480,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "crzypnda",
+            "gain": 164,
+            "currentXp": 164,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "gain": 60,
+            "currentXp": 60,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -2584,6 +4972,13 @@
             "player": "annabellee",
             "gain": 24,
             "currentXp": 24,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "gain": 6,
+            "currentXp": 186,
             "ironMode": 0,
             "expMultiplier": 1
           }
@@ -2591,15 +4986,36 @@
         "account:0|xp:1": [
           {
             "player": "shalkith",
-            "gain": 62631,
-            "currentXp": 69307,
+            "gain": 84625,
+            "currentXp": 91301,
             "ironMode": 0,
             "expMultiplier": 1
           },
           {
             "player": "jj",
-            "gain": 597,
-            "currentXp": 617,
+            "gain": 2741,
+            "currentXp": 2761,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "gain": 472,
+            "currentXp": 480,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "crzypnda",
+            "gain": 164,
+            "currentXp": 164,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "gain": 60,
+            "currentXp": 60,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -2607,6 +5023,13 @@
             "player": "annabellee",
             "gain": 24,
             "currentXp": 24,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "gain": 6,
+            "currentXp": 186,
             "ironMode": 0,
             "expMultiplier": 1
           }
@@ -2616,15 +5039,43 @@
         "account:0": [
           {
             "player": "shalkith",
-            "gain": 37619,
-            "currentXp": 45743,
+            "gain": 44329,
+            "currentXp": 52453,
             "ironMode": 0,
             "expMultiplier": 1
           },
           {
             "player": "jj",
-            "gain": 203,
-            "currentXp": 1372,
+            "gain": 915,
+            "currentXp": 2084,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "gain": 677,
+            "currentXp": 1971,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "desertbiopnk",
+            "gain": 271,
+            "currentXp": 1454,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "crzypnda",
+            "gain": 123,
+            "currentXp": 1279,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "gain": 42,
+            "currentXp": 1196,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -2632,6 +5083,13 @@
             "player": "annabellee",
             "gain": 33,
             "currentXp": 1187,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "gain": 16,
+            "currentXp": 1271,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -2646,15 +5104,43 @@
         "xp:1": [
           {
             "player": "shalkith",
-            "gain": 37619,
-            "currentXp": 45743,
+            "gain": 44329,
+            "currentXp": 52453,
             "ironMode": 0,
             "expMultiplier": 1
           },
           {
             "player": "jj",
-            "gain": 203,
-            "currentXp": 1372,
+            "gain": 915,
+            "currentXp": 2084,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "gain": 677,
+            "currentXp": 1971,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "desertbiopnk",
+            "gain": 271,
+            "currentXp": 1454,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "crzypnda",
+            "gain": 123,
+            "currentXp": 1279,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "gain": 42,
+            "currentXp": 1196,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -2662,6 +5148,13 @@
             "player": "annabellee",
             "gain": 33,
             "currentXp": 1187,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "gain": 16,
+            "currentXp": 1271,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -2676,15 +5169,43 @@
         "account:0|xp:1": [
           {
             "player": "shalkith",
-            "gain": 37619,
-            "currentXp": 45743,
+            "gain": 44329,
+            "currentXp": 52453,
             "ironMode": 0,
             "expMultiplier": 1
           },
           {
             "player": "jj",
-            "gain": 203,
-            "currentXp": 1372,
+            "gain": 915,
+            "currentXp": 2084,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "gain": 677,
+            "currentXp": 1971,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "desertbiopnk",
+            "gain": 271,
+            "currentXp": 1454,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "crzypnda",
+            "gain": 123,
+            "currentXp": 1279,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "gain": 42,
+            "currentXp": 1196,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -2692,6 +5213,13 @@
             "player": "annabellee",
             "gain": 33,
             "currentXp": 1187,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "gain": 16,
+            "currentXp": 1271,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -2726,6 +5254,20 @@
             "currentXp": 20,
             "ironMode": 0,
             "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "gain": 20,
+            "currentXp": 20,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "crzypnda",
+            "gain": 16,
+            "currentXp": 24,
+            "ironMode": 0,
+            "expMultiplier": 1
           }
         ],
         "xp:1": [
@@ -2749,6 +5291,20 @@
             "currentXp": 20,
             "ironMode": 0,
             "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "gain": 20,
+            "currentXp": 20,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "crzypnda",
+            "gain": 16,
+            "currentXp": 24,
+            "ironMode": 0,
+            "expMultiplier": 1
           }
         ],
         "account:0|xp:1": [
@@ -2770,6 +5326,20 @@
             "player": "annabellee",
             "gain": 20,
             "currentXp": 20,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "gain": 20,
+            "currentXp": 20,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "crzypnda",
+            "gain": 16,
+            "currentXp": 24,
             "ironMode": 0,
             "expMultiplier": 1
           }
@@ -2779,8 +5349,22 @@
         "account:0": [
           {
             "player": "shalkith",
-            "gain": 11539,
-            "currentXp": 14900,
+            "gain": 11859,
+            "currentXp": 15220,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "desertbiopnk",
+            "gain": 112,
+            "currentXp": 112,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "gain": 4,
+            "currentXp": 31,
             "ironMode": 0,
             "expMultiplier": 1
           }
@@ -2788,8 +5372,22 @@
         "xp:1": [
           {
             "player": "shalkith",
-            "gain": 11539,
-            "currentXp": 14900,
+            "gain": 11859,
+            "currentXp": 15220,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "desertbiopnk",
+            "gain": 112,
+            "currentXp": 112,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "gain": 4,
+            "currentXp": 31,
             "ironMode": 0,
             "expMultiplier": 1
           }
@@ -2797,8 +5395,22 @@
         "account:0|xp:1": [
           {
             "player": "shalkith",
-            "gain": 11539,
-            "currentXp": 14900,
+            "gain": 11859,
+            "currentXp": 15220,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "desertbiopnk",
+            "gain": 112,
+            "currentXp": 112,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "midnight",
+            "gain": 4,
+            "currentXp": 31,
             "ironMode": 0,
             "expMultiplier": 1
           }
@@ -2814,6 +5426,20 @@
             "expMultiplier": 1
           },
           {
+            "player": "ratler",
+            "gain": 783,
+            "currentXp": 825,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "gain": 147,
+            "currentXp": 147,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
             "player": "jj",
             "gain": 42,
             "currentXp": 42,
@@ -2837,6 +5463,20 @@
             "expMultiplier": 1
           },
           {
+            "player": "ratler",
+            "gain": 783,
+            "currentXp": 825,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "gain": 147,
+            "currentXp": 147,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
             "player": "jj",
             "gain": 42,
             "currentXp": 42,
@@ -2856,6 +5496,20 @@
             "player": "shalkith",
             "gain": 6638,
             "currentXp": 7584,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "gain": 783,
+            "currentXp": 825,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "gain": 147,
+            "currentXp": 147,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -2879,20 +5533,34 @@
         "account:0": [
           {
             "player": "shalkith",
-            "gain": 8166,
-            "currentXp": 11331,
-            "ironMode": 0,
-            "expMultiplier": 1
-          },
-          {
-            "player": "annabellee",
-            "gain": 300,
-            "currentXp": 300,
+            "gain": 9666,
+            "currentXp": 12831,
             "ironMode": 0,
             "expMultiplier": 1
           },
           {
             "player": "jj",
+            "gain": 1500,
+            "currentXp": 1500,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "gain": 570,
+            "currentXp": 1140,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "desertbiopnk",
+            "gain": 360,
+            "currentXp": 360,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
             "gain": 300,
             "currentXp": 300,
             "ironMode": 0,
@@ -2902,20 +5570,34 @@
         "xp:1": [
           {
             "player": "shalkith",
-            "gain": 8166,
-            "currentXp": 11331,
-            "ironMode": 0,
-            "expMultiplier": 1
-          },
-          {
-            "player": "annabellee",
-            "gain": 300,
-            "currentXp": 300,
+            "gain": 9666,
+            "currentXp": 12831,
             "ironMode": 0,
             "expMultiplier": 1
           },
           {
             "player": "jj",
+            "gain": 1500,
+            "currentXp": 1500,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "gain": 570,
+            "currentXp": 1140,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "desertbiopnk",
+            "gain": 360,
+            "currentXp": 360,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
             "gain": 300,
             "currentXp": 300,
             "ironMode": 0,
@@ -2925,20 +5607,34 @@
         "account:0|xp:1": [
           {
             "player": "shalkith",
-            "gain": 8166,
-            "currentXp": 11331,
-            "ironMode": 0,
-            "expMultiplier": 1
-          },
-          {
-            "player": "annabellee",
-            "gain": 300,
-            "currentXp": 300,
+            "gain": 9666,
+            "currentXp": 12831,
             "ironMode": 0,
             "expMultiplier": 1
           },
           {
             "player": "jj",
+            "gain": 1500,
+            "currentXp": 1500,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "gain": 570,
+            "currentXp": 1140,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "desertbiopnk",
+            "gain": 360,
+            "currentXp": 360,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "annabellee",
             "gain": 300,
             "currentXp": 300,
             "ironMode": 0,
@@ -2954,6 +5650,20 @@
             "currentXp": 31104,
             "ironMode": 0,
             "expMultiplier": 1
+          },
+          {
+            "player": "desertbiopnk",
+            "gain": 450,
+            "currentXp": 550,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "crzypnda",
+            "gain": 75,
+            "currentXp": 75,
+            "ironMode": 0,
+            "expMultiplier": 1
           }
         ],
         "xp:1": [
@@ -2963,6 +5673,20 @@
             "currentXp": 31104,
             "ironMode": 0,
             "expMultiplier": 1
+          },
+          {
+            "player": "desertbiopnk",
+            "gain": 450,
+            "currentXp": 550,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "crzypnda",
+            "gain": 75,
+            "currentXp": 75,
+            "ironMode": 0,
+            "expMultiplier": 1
           }
         ],
         "account:0|xp:1": [
@@ -2970,6 +5694,20 @@
             "player": "madarr",
             "gain": 26867,
             "currentXp": 31104,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "desertbiopnk",
+            "gain": 450,
+            "currentXp": 550,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "crzypnda",
+            "gain": 75,
+            "currentXp": 75,
             "ironMode": 0,
             "expMultiplier": 1
           }
@@ -3005,7 +5743,35 @@
         ]
       },
       "11": {},
-      "12": {},
+      "12": {
+        "account:0": [
+          {
+            "player": "desertbiopnk",
+            "gain": 720,
+            "currentXp": 800,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "xp:1": [
+          {
+            "player": "desertbiopnk",
+            "gain": 720,
+            "currentXp": 800,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ],
+        "account:0|xp:1": [
+          {
+            "player": "desertbiopnk",
+            "gain": 720,
+            "currentXp": 800,
+            "ironMode": 0,
+            "expMultiplier": 1
+          }
+        ]
+      },
       "13": {
         "account:0": [
           {
@@ -3060,13 +5826,20 @@
         "account:0": [
           {
             "player": "shalkith",
-            "gain": 25070,
-            "currentXp": 41257,
+            "gain": 25538,
+            "currentXp": 41725,
             "ironMode": 0,
             "expMultiplier": 1
           },
           {
             "player": "annabellee",
+            "gain": 18,
+            "currentXp": 18,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
             "gain": 18,
             "currentXp": 18,
             "ironMode": 0,
@@ -3076,8 +5849,8 @@
         "xp:1": [
           {
             "player": "shalkith",
-            "gain": 25070,
-            "currentXp": 41257,
+            "gain": 25538,
+            "currentXp": 41725,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -3087,18 +5860,32 @@
             "currentXp": 18,
             "ironMode": 0,
             "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "gain": 18,
+            "currentXp": 18,
+            "ironMode": 0,
+            "expMultiplier": 1
           }
         ],
         "account:0|xp:1": [
           {
             "player": "shalkith",
-            "gain": 25070,
-            "currentXp": 41257,
+            "gain": 25538,
+            "currentXp": 41725,
             "ironMode": 0,
             "expMultiplier": 1
           },
           {
             "player": "annabellee",
+            "gain": 18,
+            "currentXp": 18,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
             "gain": 18,
             "currentXp": 18,
             "ironMode": 0,
@@ -3110,13 +5897,20 @@
         "account:0": [
           {
             "player": "shalkith",
-            "gain": 48667,
-            "currentXp": 97752,
+            "gain": 50575,
+            "currentXp": 99660,
             "ironMode": 0,
             "expMultiplier": 1
           },
           {
             "player": "annabellee",
+            "gain": 35,
+            "currentXp": 35,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
             "gain": 35,
             "currentXp": 35,
             "ironMode": 0,
@@ -3126,8 +5920,8 @@
         "xp:1": [
           {
             "player": "shalkith",
-            "gain": 48667,
-            "currentXp": 97752,
+            "gain": 50575,
+            "currentXp": 99660,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -3137,18 +5931,32 @@
             "currentXp": 35,
             "ironMode": 0,
             "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
+            "gain": 35,
+            "currentXp": 35,
+            "ironMode": 0,
+            "expMultiplier": 1
           }
         ],
         "account:0|xp:1": [
           {
             "player": "shalkith",
-            "gain": 48667,
-            "currentXp": 97752,
+            "gain": 50575,
+            "currentXp": 99660,
             "ironMode": 0,
             "expMultiplier": 1
           },
           {
             "player": "annabellee",
+            "gain": 35,
+            "currentXp": 35,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "bwand_rin",
             "gain": 35,
             "currentXp": 35,
             "ironMode": 0,
