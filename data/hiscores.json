@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T04:00:33.182Z",
+  "generatedAt": "2026-09-04T04:00:35.482Z",
   "limit": 100,
   "skills": {
     "0": {
@@ -8,11 +8,11 @@
         "all": [
           {
             "player": "shalkith",
-            "level": 458,
-            "xp": 471723,
+            "level": 462,
+            "xp": 489975,
             "ironMode": 0,
             "expMultiplier": 1,
-            "combatLevel": 53
+            "combatLevel": 54
           },
           {
             "player": "desertbiopnk",
@@ -32,11 +32,11 @@
           },
           {
             "player": "ratler",
-            "level": 71,
-            "xp": 6799,
+            "level": 95,
+            "xp": 11115,
             "ironMode": 0,
             "expMultiplier": 1,
-            "combatLevel": 10
+            "combatLevel": 13
           },
           {
             "player": "jj",
@@ -122,11 +122,11 @@
         "account:0": [
           {
             "player": "shalkith",
-            "level": 458,
-            "xp": 471723,
+            "level": 462,
+            "xp": 489975,
             "ironMode": 0,
             "expMultiplier": 1,
-            "combatLevel": 53
+            "combatLevel": 54
           },
           {
             "player": "desertbiopnk",
@@ -146,11 +146,11 @@
           },
           {
             "player": "ratler",
-            "level": 71,
-            "xp": 6799,
+            "level": 95,
+            "xp": 11115,
             "ironMode": 0,
             "expMultiplier": 1,
-            "combatLevel": 10
+            "combatLevel": 13
           },
           {
             "player": "jj",
@@ -236,11 +236,11 @@
         "xp:1": [
           {
             "player": "shalkith",
-            "level": 458,
-            "xp": 471723,
+            "level": 462,
+            "xp": 489975,
             "ironMode": 0,
             "expMultiplier": 1,
-            "combatLevel": 53
+            "combatLevel": 54
           },
           {
             "player": "desertbiopnk",
@@ -260,11 +260,11 @@
           },
           {
             "player": "ratler",
-            "level": 71,
-            "xp": 6799,
+            "level": 95,
+            "xp": 11115,
             "ironMode": 0,
             "expMultiplier": 1,
-            "combatLevel": 10
+            "combatLevel": 13
           },
           {
             "player": "jj",
@@ -350,11 +350,11 @@
         "account:0|xp:1": [
           {
             "player": "shalkith",
-            "level": 458,
-            "xp": 471723,
+            "level": 462,
+            "xp": 489975,
             "ironMode": 0,
             "expMultiplier": 1,
-            "combatLevel": 53
+            "combatLevel": 54
           },
           {
             "player": "desertbiopnk",
@@ -374,11 +374,11 @@
           },
           {
             "player": "ratler",
-            "level": 71,
-            "xp": 6799,
+            "level": 95,
+            "xp": 11115,
             "ironMode": 0,
             "expMultiplier": 1,
-            "combatLevel": 10
+            "combatLevel": 13
           },
           {
             "player": "jj",
@@ -476,8 +476,8 @@
           },
           {
             "player": "ratler",
-            "level": 12,
-            "xp": 1674,
+            "level": 17,
+            "xp": 3249,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -576,8 +576,8 @@
           },
           {
             "player": "ratler",
-            "level": 12,
-            "xp": 1674,
+            "level": 17,
+            "xp": 3249,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -676,8 +676,8 @@
           },
           {
             "player": "ratler",
-            "level": 12,
-            "xp": 1674,
+            "level": 17,
+            "xp": 3249,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -776,8 +776,8 @@
           },
           {
             "player": "ratler",
-            "level": 12,
-            "xp": 1674,
+            "level": 17,
+            "xp": 3249,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -887,16 +887,16 @@
             "expMultiplier": 1
           },
           {
-            "player": "lofilinx",
-            "level": 7,
-            "xp": 769,
+            "player": "ratler",
+            "level": 9,
+            "xp": 1016,
             "ironMode": 0,
             "expMultiplier": 1
           },
           {
-            "player": "ratler",
-            "level": 5,
-            "xp": 502,
+            "player": "lofilinx",
+            "level": 7,
+            "xp": 769,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -987,16 +987,16 @@
             "expMultiplier": 1
           },
           {
-            "player": "lofilinx",
-            "level": 7,
-            "xp": 769,
+            "player": "ratler",
+            "level": 9,
+            "xp": 1016,
             "ironMode": 0,
             "expMultiplier": 1
           },
           {
-            "player": "ratler",
-            "level": 5,
-            "xp": 502,
+            "player": "lofilinx",
+            "level": 7,
+            "xp": 769,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1087,16 +1087,16 @@
             "expMultiplier": 1
           },
           {
-            "player": "lofilinx",
-            "level": 7,
-            "xp": 769,
+            "player": "ratler",
+            "level": 9,
+            "xp": 1016,
             "ironMode": 0,
             "expMultiplier": 1
           },
           {
-            "player": "ratler",
-            "level": 5,
-            "xp": 502,
+            "player": "lofilinx",
+            "level": 7,
+            "xp": 769,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1187,16 +1187,16 @@
             "expMultiplier": 1
           },
           {
-            "player": "lofilinx",
-            "level": 7,
-            "xp": 769,
+            "player": "ratler",
+            "level": 9,
+            "xp": 1016,
             "ironMode": 0,
             "expMultiplier": 1
           },
           {
-            "player": "ratler",
-            "level": 5,
-            "xp": 502,
+            "player": "lofilinx",
+            "level": 7,
+            "xp": 769,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1279,8 +1279,8 @@
         "all": [
           {
             "player": "shalkith",
-            "level": 49,
-            "xp": 97178,
+            "level": 50,
+            "xp": 110501,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1379,8 +1379,8 @@
         "account:0": [
           {
             "player": "shalkith",
-            "level": 49,
-            "xp": 97178,
+            "level": 50,
+            "xp": 110501,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1479,8 +1479,8 @@
         "xp:1": [
           {
             "player": "shalkith",
-            "level": 49,
-            "xp": 97178,
+            "level": 50,
+            "xp": 110501,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1579,8 +1579,8 @@
         "account:0|xp:1": [
           {
             "player": "shalkith",
-            "level": 49,
-            "xp": 97178,
+            "level": 50,
+            "xp": 110501,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1684,8 +1684,15 @@
         "all": [
           {
             "player": "shalkith",
-            "level": 43,
-            "xp": 54329,
+            "level": 44,
+            "xp": 58356,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 16,
+            "xp": 2812,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1700,13 +1707,6 @@
             "player": "andross",
             "level": 14,
             "xp": 2136,
-            "ironMode": 0,
-            "expMultiplier": 1
-          },
-          {
-            "player": "ratler",
-            "level": 13,
-            "xp": 2100,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1784,8 +1784,15 @@
         "account:0": [
           {
             "player": "shalkith",
-            "level": 43,
-            "xp": 54329,
+            "level": 44,
+            "xp": 58356,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 16,
+            "xp": 2812,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1800,13 +1807,6 @@
             "player": "andross",
             "level": 14,
             "xp": 2136,
-            "ironMode": 0,
-            "expMultiplier": 1
-          },
-          {
-            "player": "ratler",
-            "level": 13,
-            "xp": 2100,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1884,8 +1884,15 @@
         "xp:1": [
           {
             "player": "shalkith",
-            "level": 43,
-            "xp": 54329,
+            "level": 44,
+            "xp": 58356,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 16,
+            "xp": 2812,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1900,13 +1907,6 @@
             "player": "andross",
             "level": 14,
             "xp": 2136,
-            "ironMode": 0,
-            "expMultiplier": 1
-          },
-          {
-            "player": "ratler",
-            "level": 13,
-            "xp": 2100,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1984,8 +1984,15 @@
         "account:0|xp:1": [
           {
             "player": "shalkith",
-            "level": 43,
-            "xp": 54329,
+            "level": 44,
+            "xp": 58356,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "ratler",
+            "level": 16,
+            "xp": 2812,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -2000,13 +2007,6 @@
             "player": "andross",
             "level": 14,
             "xp": 2136,
-            "ironMode": 0,
-            "expMultiplier": 1
-          },
-          {
-            "player": "ratler",
-            "level": 13,
-            "xp": 2100,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -2088,6 +2088,13 @@
       "segments": {
         "all": [
           {
+            "player": "ratler",
+            "level": 2,
+            "xp": 92,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
             "player": "madarr",
             "level": 2,
             "xp": 84,
@@ -2154,13 +2161,6 @@
             "player": "lofilinx",
             "level": 1,
             "xp": 20,
-            "ironMode": 0,
-            "expMultiplier": 1
-          },
-          {
-            "player": "ratler",
-            "level": 1,
-            "xp": 4,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -2188,6 +2188,13 @@
         ],
         "account:0": [
           {
+            "player": "ratler",
+            "level": 2,
+            "xp": 92,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
             "player": "madarr",
             "level": 2,
             "xp": 84,
@@ -2254,13 +2261,6 @@
             "player": "lofilinx",
             "level": 1,
             "xp": 20,
-            "ironMode": 0,
-            "expMultiplier": 1
-          },
-          {
-            "player": "ratler",
-            "level": 1,
-            "xp": 4,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -2288,6 +2288,13 @@
         ],
         "xp:1": [
           {
+            "player": "ratler",
+            "level": 2,
+            "xp": 92,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
             "player": "madarr",
             "level": 2,
             "xp": 84,
@@ -2354,13 +2361,6 @@
             "player": "lofilinx",
             "level": 1,
             "xp": 20,
-            "ironMode": 0,
-            "expMultiplier": 1
-          },
-          {
-            "player": "ratler",
-            "level": 1,
-            "xp": 4,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -2388,6 +2388,13 @@
         ],
         "account:0|xp:1": [
           {
+            "player": "ratler",
+            "level": 2,
+            "xp": 92,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
             "player": "madarr",
             "level": 2,
             "xp": 84,
@@ -2454,13 +2461,6 @@
             "player": "lofilinx",
             "level": 1,
             "xp": 20,
-            "ironMode": 0,
-            "expMultiplier": 1
-          },
-          {
-            "player": "ratler",
-            "level": 1,
-            "xp": 4,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -2495,7 +2495,7 @@
           {
             "player": "shalkith",
             "level": 31,
-            "xp": 15719,
+            "xp": 16216,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -2595,7 +2595,7 @@
           {
             "player": "shalkith",
             "level": 31,
-            "xp": 15719,
+            "xp": 16216,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -2695,7 +2695,7 @@
           {
             "player": "shalkith",
             "level": 31,
-            "xp": 15719,
+            "xp": 16216,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -2795,7 +2795,7 @@
           {
             "player": "shalkith",
             "level": 31,
-            "xp": 15719,
+            "xp": 16216,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -2913,8 +2913,8 @@
           },
           {
             "player": "ratler",
-            "level": 8,
-            "xp": 825,
+            "level": 10,
+            "xp": 1162,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -3013,8 +3013,8 @@
           },
           {
             "player": "ratler",
-            "level": 8,
-            "xp": 825,
+            "level": 10,
+            "xp": 1162,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -3113,8 +3113,8 @@
           },
           {
             "player": "ratler",
-            "level": 8,
-            "xp": 825,
+            "level": 10,
+            "xp": 1162,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -3213,8 +3213,8 @@
           },
           {
             "player": "ratler",
-            "level": 8,
-            "xp": 825,
+            "level": 10,
+            "xp": 1162,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -3305,7 +3305,7 @@
           {
             "player": "shalkith",
             "level": 37,
-            "xp": 28956,
+            "xp": 29034,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -3325,8 +3325,8 @@
           },
           {
             "player": "ratler",
-            "level": 9,
-            "xp": 1140,
+            "level": 11,
+            "xp": 1500,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -3405,7 +3405,7 @@
           {
             "player": "shalkith",
             "level": 37,
-            "xp": 28956,
+            "xp": 29034,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -3425,8 +3425,8 @@
           },
           {
             "player": "ratler",
-            "level": 9,
-            "xp": 1140,
+            "level": 11,
+            "xp": 1500,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -3505,7 +3505,7 @@
           {
             "player": "shalkith",
             "level": 37,
-            "xp": 28956,
+            "xp": 29034,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -3525,8 +3525,8 @@
           },
           {
             "player": "ratler",
-            "level": 9,
-            "xp": 1140,
+            "level": 11,
+            "xp": 1500,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -3605,7 +3605,7 @@
           {
             "player": "shalkith",
             "level": 37,
-            "xp": 28956,
+            "xp": 29034,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -3625,8 +3625,8 @@
           },
           {
             "player": "ratler",
-            "level": 9,
-            "xp": 1140,
+            "level": 11,
+            "xp": 1500,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -3722,6 +3722,13 @@
             "expMultiplier": 1
           },
           {
+            "player": "ratler",
+            "level": 3,
+            "xp": 225,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
             "player": "lofilinx",
             "level": 2,
             "xp": 150,
@@ -3774,13 +3781,6 @@
             "player": "shalkith",
             "level": 1,
             "xp": 50,
-            "ironMode": 0,
-            "expMultiplier": 1
-          },
-          {
-            "player": "ratler",
-            "level": 1,
-            "xp": 25,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -3822,6 +3822,13 @@
             "expMultiplier": 1
           },
           {
+            "player": "ratler",
+            "level": 3,
+            "xp": 225,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
             "player": "lofilinx",
             "level": 2,
             "xp": 150,
@@ -3874,13 +3881,6 @@
             "player": "shalkith",
             "level": 1,
             "xp": 50,
-            "ironMode": 0,
-            "expMultiplier": 1
-          },
-          {
-            "player": "ratler",
-            "level": 1,
-            "xp": 25,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -3922,6 +3922,13 @@
             "expMultiplier": 1
           },
           {
+            "player": "ratler",
+            "level": 3,
+            "xp": 225,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
             "player": "lofilinx",
             "level": 2,
             "xp": 150,
@@ -3974,13 +3981,6 @@
             "player": "shalkith",
             "level": 1,
             "xp": 50,
-            "ironMode": 0,
-            "expMultiplier": 1
-          },
-          {
-            "player": "ratler",
-            "level": 1,
-            "xp": 25,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -4022,6 +4022,13 @@
             "expMultiplier": 1
           },
           {
+            "player": "ratler",
+            "level": 3,
+            "xp": 225,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
             "player": "lofilinx",
             "level": 2,
             "xp": 150,
@@ -4074,13 +4081,6 @@
             "player": "shalkith",
             "level": 1,
             "xp": 50,
-            "ironMode": 0,
-            "expMultiplier": 1
-          },
-          {
-            "player": "ratler",
-            "level": 1,
-            "xp": 25,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -4930,6 +4930,13 @@
             "expMultiplier": 1
           },
           {
+            "player": "ratler",
+            "level": 4,
+            "xp": 280,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
             "player": "midnight",
             "level": 2,
             "xp": 160,
@@ -5001,13 +5008,6 @@
           },
           {
             "player": "madarr",
-            "level": 1,
-            "xp": 0,
-            "ironMode": 0,
-            "expMultiplier": 1
-          },
-          {
-            "player": "ratler",
             "level": 1,
             "xp": 0,
             "ironMode": 0,
@@ -5030,6 +5030,13 @@
             "expMultiplier": 1
           },
           {
+            "player": "ratler",
+            "level": 4,
+            "xp": 280,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
             "player": "midnight",
             "level": 2,
             "xp": 160,
@@ -5101,13 +5108,6 @@
           },
           {
             "player": "madarr",
-            "level": 1,
-            "xp": 0,
-            "ironMode": 0,
-            "expMultiplier": 1
-          },
-          {
-            "player": "ratler",
             "level": 1,
             "xp": 0,
             "ironMode": 0,
@@ -5130,6 +5130,13 @@
             "expMultiplier": 1
           },
           {
+            "player": "ratler",
+            "level": 4,
+            "xp": 280,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
             "player": "midnight",
             "level": 2,
             "xp": 160,
@@ -5201,13 +5208,6 @@
           },
           {
             "player": "madarr",
-            "level": 1,
-            "xp": 0,
-            "ironMode": 0,
-            "expMultiplier": 1
-          },
-          {
-            "player": "ratler",
             "level": 1,
             "xp": 0,
             "ironMode": 0,
@@ -5230,6 +5230,13 @@
             "expMultiplier": 1
           },
           {
+            "player": "ratler",
+            "level": 4,
+            "xp": 280,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
             "player": "midnight",
             "level": 2,
             "xp": 160,
@@ -5301,13 +5308,6 @@
           },
           {
             "player": "madarr",
-            "level": 1,
-            "xp": 0,
-            "ironMode": 0,
-            "expMultiplier": 1
-          },
-          {
-            "player": "ratler",
             "level": 1,
             "xp": 0,
             "ironMode": 0,
@@ -5330,7 +5330,7 @@
           {
             "player": "shalkith",
             "level": 27,
-            "xp": 10595,
+            "xp": 10620,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -5430,7 +5430,7 @@
           {
             "player": "shalkith",
             "level": 27,
-            "xp": 10595,
+            "xp": 10620,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -5530,7 +5530,7 @@
           {
             "player": "shalkith",
             "level": 27,
-            "xp": 10595,
+            "xp": 10620,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -5630,7 +5630,7 @@
           {
             "player": "shalkith",
             "level": 27,
-            "xp": 10595,
+            "xp": 10620,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -6140,7 +6140,7 @@
           {
             "player": "shalkith",
             "level": 51,
-            "xp": 116050,
+            "xp": 116103,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -6240,7 +6240,7 @@
           {
             "player": "shalkith",
             "level": 51,
-            "xp": 116050,
+            "xp": 116103,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -6340,7 +6340,7 @@
           {
             "player": "shalkith",
             "level": 51,
-            "xp": 116050,
+            "xp": 116103,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -6440,7 +6440,7 @@
           {
             "player": "shalkith",
             "level": 51,
-            "xp": 116050,
+            "xp": 116103,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -6543,6 +6543,20 @@
       "segments": {
         "all": [
           {
+            "player": "ratler",
+            "level": 3,
+            "xp": 250,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "shalkith",
+            "level": 3,
+            "xp": 250,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
             "player": "andross",
             "level": 1,
             "xp": 0,
@@ -6614,20 +6628,6 @@
           },
           {
             "player": "midnight",
-            "level": 1,
-            "xp": 0,
-            "ironMode": 0,
-            "expMultiplier": 1
-          },
-          {
-            "player": "ratler",
-            "level": 1,
-            "xp": 0,
-            "ironMode": 0,
-            "expMultiplier": 1
-          },
-          {
-            "player": "shalkith",
             "level": 1,
             "xp": 0,
             "ironMode": 0,
@@ -6643,6 +6643,20 @@
         ],
         "account:0": [
           {
+            "player": "ratler",
+            "level": 3,
+            "xp": 250,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "shalkith",
+            "level": 3,
+            "xp": 250,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
             "player": "andross",
             "level": 1,
             "xp": 0,
@@ -6714,20 +6728,6 @@
           },
           {
             "player": "midnight",
-            "level": 1,
-            "xp": 0,
-            "ironMode": 0,
-            "expMultiplier": 1
-          },
-          {
-            "player": "ratler",
-            "level": 1,
-            "xp": 0,
-            "ironMode": 0,
-            "expMultiplier": 1
-          },
-          {
-            "player": "shalkith",
             "level": 1,
             "xp": 0,
             "ironMode": 0,
@@ -6743,6 +6743,20 @@
         ],
         "xp:1": [
           {
+            "player": "ratler",
+            "level": 3,
+            "xp": 250,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "shalkith",
+            "level": 3,
+            "xp": 250,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
             "player": "andross",
             "level": 1,
             "xp": 0,
@@ -6814,20 +6828,6 @@
           },
           {
             "player": "midnight",
-            "level": 1,
-            "xp": 0,
-            "ironMode": 0,
-            "expMultiplier": 1
-          },
-          {
-            "player": "ratler",
-            "level": 1,
-            "xp": 0,
-            "ironMode": 0,
-            "expMultiplier": 1
-          },
-          {
-            "player": "shalkith",
             "level": 1,
             "xp": 0,
             "ironMode": 0,
@@ -6843,6 +6843,20 @@
         ],
         "account:0|xp:1": [
           {
+            "player": "ratler",
+            "level": 3,
+            "xp": 250,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "shalkith",
+            "level": 3,
+            "xp": 250,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
             "player": "andross",
             "level": 1,
             "xp": 0,
@@ -6914,20 +6928,6 @@
           },
           {
             "player": "midnight",
-            "level": 1,
-            "xp": 0,
-            "ironMode": 0,
-            "expMultiplier": 1
-          },
-          {
-            "player": "ratler",
-            "level": 1,
-            "xp": 0,
-            "ironMode": 0,
-            "expMultiplier": 1
-          },
-          {
-            "player": "shalkith",
             "level": 1,
             "xp": 0,
             "ironMode": 0,
