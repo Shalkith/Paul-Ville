@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T04:00:32.130Z",
+  "generatedAt": "2026-09-08T04:00:33.018Z",
   "limit": 100,
   "skills": {
     "0": {
@@ -16,16 +16,16 @@
           },
           {
             "player": "desertbiopnk",
-            "level": 179,
-            "xp": 36598,
+            "level": 193,
+            "xp": 42120,
             "ironMode": 0,
             "expMultiplier": 1,
-            "combatLevel": 14
+            "combatLevel": 18
           },
           {
             "player": "ratler",
             "level": 110,
-            "xp": 15634,
+            "xp": 15897,
             "ironMode": 0,
             "expMultiplier": 1,
             "combatLevel": 16
@@ -138,16 +138,16 @@
           },
           {
             "player": "desertbiopnk",
-            "level": 179,
-            "xp": 36598,
+            "level": 193,
+            "xp": 42120,
             "ironMode": 0,
             "expMultiplier": 1,
-            "combatLevel": 14
+            "combatLevel": 18
           },
           {
             "player": "ratler",
             "level": 110,
-            "xp": 15634,
+            "xp": 15897,
             "ironMode": 0,
             "expMultiplier": 1,
             "combatLevel": 16
@@ -260,16 +260,16 @@
           },
           {
             "player": "desertbiopnk",
-            "level": 179,
-            "xp": 36598,
+            "level": 193,
+            "xp": 42120,
             "ironMode": 0,
             "expMultiplier": 1,
-            "combatLevel": 14
+            "combatLevel": 18
           },
           {
             "player": "ratler",
             "level": 110,
-            "xp": 15634,
+            "xp": 15897,
             "ironMode": 0,
             "expMultiplier": 1,
             "combatLevel": 16
@@ -382,16 +382,16 @@
           },
           {
             "player": "desertbiopnk",
-            "level": 179,
-            "xp": 36598,
+            "level": 193,
+            "xp": 42120,
             "ironMode": 0,
             "expMultiplier": 1,
-            "combatLevel": 14
+            "combatLevel": 18
           },
           {
             "player": "ratler",
             "level": 110,
-            "xp": 15634,
+            "xp": 15897,
             "ironMode": 0,
             "expMultiplier": 1,
             "combatLevel": 16
@@ -507,16 +507,16 @@
             "expMultiplier": 1
           },
           {
-            "player": "ratler",
+            "player": "desertbiopnk",
             "level": 19,
-            "xp": 4001,
+            "xp": 4285,
             "ironMode": 0,
             "expMultiplier": 1
           },
           {
-            "player": "desertbiopnk",
-            "level": 10,
-            "xp": 1285,
+            "player": "ratler",
+            "level": 19,
+            "xp": 4063,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -614,16 +614,16 @@
             "expMultiplier": 1
           },
           {
-            "player": "ratler",
+            "player": "desertbiopnk",
             "level": 19,
-            "xp": 4001,
+            "xp": 4285,
             "ironMode": 0,
             "expMultiplier": 1
           },
           {
-            "player": "desertbiopnk",
-            "level": 10,
-            "xp": 1285,
+            "player": "ratler",
+            "level": 19,
+            "xp": 4063,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -721,16 +721,16 @@
             "expMultiplier": 1
           },
           {
-            "player": "ratler",
+            "player": "desertbiopnk",
             "level": 19,
-            "xp": 4001,
+            "xp": 4285,
             "ironMode": 0,
             "expMultiplier": 1
           },
           {
-            "player": "desertbiopnk",
-            "level": 10,
-            "xp": 1285,
+            "player": "ratler",
+            "level": 19,
+            "xp": 4063,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -828,16 +828,16 @@
             "expMultiplier": 1
           },
           {
-            "player": "ratler",
+            "player": "desertbiopnk",
             "level": 19,
-            "xp": 4001,
+            "xp": 4285,
             "ironMode": 0,
             "expMultiplier": 1
           },
           {
-            "player": "desertbiopnk",
-            "level": 10,
-            "xp": 1285,
+            "player": "ratler",
+            "level": 19,
+            "xp": 4063,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -942,7 +942,7 @@
           {
             "player": "ratler",
             "level": 15,
-            "xp": 2622,
+            "xp": 2650,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1049,7 +1049,7 @@
           {
             "player": "ratler",
             "level": 15,
-            "xp": 2622,
+            "xp": 2650,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1156,7 +1156,7 @@
           {
             "player": "ratler",
             "level": 15,
-            "xp": 2622,
+            "xp": 2650,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1263,7 +1263,7 @@
           {
             "player": "ratler",
             "level": 15,
-            "xp": 2622,
+            "xp": 2650,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1381,8 +1381,8 @@
           },
           {
             "player": "desertbiopnk",
-            "level": 12,
-            "xp": 1665,
+            "level": 13,
+            "xp": 1973,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1488,8 +1488,8 @@
           },
           {
             "player": "desertbiopnk",
-            "level": 12,
-            "xp": 1665,
+            "level": 13,
+            "xp": 1973,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1595,8 +1595,8 @@
           },
           {
             "player": "desertbiopnk",
-            "level": 12,
-            "xp": 1665,
+            "level": 13,
+            "xp": 1973,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1702,8 +1702,8 @@
           },
           {
             "player": "desertbiopnk",
-            "level": 12,
-            "xp": 1665,
+            "level": 13,
+            "xp": 1973,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1808,14 +1808,14 @@
           {
             "player": "ratler",
             "level": 18,
-            "xp": 3670,
+            "xp": 3712,
             "ironMode": 0,
             "expMultiplier": 1
           },
           {
             "player": "desertbiopnk",
             "level": 15,
-            "xp": 2590,
+            "xp": 2692,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -1915,14 +1915,14 @@
           {
             "player": "ratler",
             "level": 18,
-            "xp": 3670,
+            "xp": 3712,
             "ironMode": 0,
             "expMultiplier": 1
           },
           {
             "player": "desertbiopnk",
             "level": 15,
-            "xp": 2590,
+            "xp": 2692,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -2022,14 +2022,14 @@
           {
             "player": "ratler",
             "level": 18,
-            "xp": 3670,
+            "xp": 3712,
             "ironMode": 0,
             "expMultiplier": 1
           },
           {
             "player": "desertbiopnk",
             "level": 15,
-            "xp": 2590,
+            "xp": 2692,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -2129,14 +2129,14 @@
           {
             "player": "ratler",
             "level": 18,
-            "xp": 3670,
+            "xp": 3712,
             "ironMode": 0,
             "expMultiplier": 1
           },
           {
             "player": "desertbiopnk",
             "level": 15,
-            "xp": 2590,
+            "xp": 2692,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -2674,7 +2674,7 @@
           {
             "player": "desertbiopnk",
             "level": 12,
-            "xp": 1584,
+            "xp": 1611,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -2781,7 +2781,7 @@
           {
             "player": "desertbiopnk",
             "level": 12,
-            "xp": 1584,
+            "xp": 1611,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -2888,7 +2888,7 @@
           {
             "player": "desertbiopnk",
             "level": 12,
-            "xp": 1584,
+            "xp": 1611,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -2995,7 +2995,7 @@
           {
             "player": "desertbiopnk",
             "level": 12,
-            "xp": 1584,
+            "xp": 1611,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -3114,7 +3114,7 @@
           {
             "player": "ratler",
             "level": 13,
-            "xp": 1976,
+            "xp": 2106,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -3221,7 +3221,7 @@
           {
             "player": "ratler",
             "level": 13,
-            "xp": 1976,
+            "xp": 2106,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -3328,7 +3328,7 @@
           {
             "player": "ratler",
             "level": 13,
-            "xp": 1976,
+            "xp": 2106,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -3435,7 +3435,7 @@
           {
             "player": "ratler",
             "level": 13,
-            "xp": 1976,
+            "xp": 2106,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -6137,8 +6137,8 @@
           },
           {
             "player": "desertbiopnk",
-            "level": 14,
-            "xp": 2262,
+            "level": 15,
+            "xp": 2423,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -6244,8 +6244,8 @@
           },
           {
             "player": "desertbiopnk",
-            "level": 14,
-            "xp": 2262,
+            "level": 15,
+            "xp": 2423,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -6351,8 +6351,8 @@
           },
           {
             "player": "desertbiopnk",
-            "level": 14,
-            "xp": 2262,
+            "level": 15,
+            "xp": 2423,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -6458,8 +6458,8 @@
           },
           {
             "player": "desertbiopnk",
-            "level": 14,
-            "xp": 2262,
+            "level": 15,
+            "xp": 2423,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -6570,8 +6570,8 @@
           },
           {
             "player": "desertbiopnk",
-            "level": 19,
-            "xp": 4252,
+            "level": 22,
+            "xp": 6160,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -6677,8 +6677,8 @@
           },
           {
             "player": "desertbiopnk",
-            "level": 19,
-            "xp": 4252,
+            "level": 22,
+            "xp": 6160,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -6784,8 +6784,8 @@
           },
           {
             "player": "desertbiopnk",
-            "level": 19,
-            "xp": 4252,
+            "level": 22,
+            "xp": 6160,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -6891,8 +6891,8 @@
           },
           {
             "player": "desertbiopnk",
-            "level": 19,
-            "xp": 4252,
+            "level": 22,
+            "xp": 6160,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -7870,7 +7870,7 @@
           {
             "player": "desertbiopnk",
             "level": 1,
-            "xp": 40,
+            "xp": 56,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -7977,7 +7977,7 @@
           {
             "player": "desertbiopnk",
             "level": 1,
-            "xp": 40,
+            "xp": 56,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -8084,7 +8084,7 @@
           {
             "player": "desertbiopnk",
             "level": 1,
-            "xp": 40,
+            "xp": 56,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -8191,7 +8191,7 @@
           {
             "player": "desertbiopnk",
             "level": 1,
-            "xp": 40,
+            "xp": 56,
             "ironMode": 0,
             "expMultiplier": 1
           },
